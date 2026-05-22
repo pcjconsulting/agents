@@ -1,63 +1,44 @@
-import pyodbc
-
-# Build your connection string
-dsn_name = "FileMakerAccess"
-server_name = "localhost"
-db_name = "Assets"
-user = "Admin"
-password = "password"
-conn_str = f'DSN={dsn_name};UID={user};PWD={password}'
-
-query_str = """
- SELECT A.Name AS AssetName, A.Description AS AssetDescription , V.Name AS VendorName, T.Note AS AssignmentNote, T.\"Date Returned\", E.\"First Name\" AS EmployeeFirstName, E.\"Last Name\" AS EmployeeLastName
- FROM Employees AS E
- JOIN Assignments AS T ON E.PrimaryKey = T.EmployeeForeignKey
- JOIN Assets AS A ON A.PrimaryKey = T.AssetForeignKey
- LEFT JOIN Vendors AS V ON T.AssetForeignKey = V.ForeignKey
- ORDER BY T.EmployeeForeignKey
- FETCH FIRST 1000 ROWS ONLY
- """
-
-# Connect and execute
-with pyodbc.connect(conn_str) as conn:
-    cursor = conn.cursor()
-    cursor.execute(query_str)
-    for row in cursor:
-        print(row)
-
-
 import os
 import json
 import pyodbc
 from openai import OpenAI
 
-# 1. Configuration
-OPENAI_API_KEY = "your-openai-api-key-here"
-# Example DSN-less connection string (e.g., for SQL Server)
-# Change to 'DRIVER={PostgreSQL};... for Postgres'
-ODBC_CONNECTION_STRING = "DSN=your_dsn_name;UID=user;PWD=password;DATABASE=your_db"
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+# Configuration
+# OPENAI_API_KEY = "sk-proj-DesK9m...8_DkA"
+dsn_name = "FileMakerAccess"
+server_name = "localhost"
+db_name = "Assets"
+user = "Admin"
+password = "password"
+ODBC_CONNECTION_STRING = f'DSN={dsn_name};UID={user};PWD={password}'
 
-# 2. Define the Database Tool
-def execute_sql_query(query: str) -> str:
+fm_query_str = """
+ SELECT A.Name AS AssetName, A.Description AS AssetDescription , V.Name AS VendorName, T.Note AS AssignmentNote, CAST(T.\"Date Returned\" AS VARCHAR) AS DateReturned, E.\"First Name\" AS EmployeeFirstName, E.\"Last Name\" AS EmployeeLastName
+ FROM Employees AS E
+ JOIN Assignments AS T ON E.PrimaryKey = T.EmployeeForeignKey
+ JOIN Assets AS A ON A.PrimaryKey = T.AssetForeignKey
+ LEFT JOIN Vendors AS V ON T.AssetForeignKey = V.ForeignKey
+ ORDER BY T.EmployeeForeignKey
+ FETCH FIRST 300 ROWS ONLY
+ """
+
+
+# Define the Database Tool
+def execute_sql_query() -> str:
     """
-    Executes a read-only SQL query against the local ODBC database 
-    and returns the results as a JSON-formatted string.
+    Returns a join of asset, assignment, employee, and vendor tables as a JSON-formatted string.
     """
     try:
-        conn = pyodbc.connect(ODBC_CONNECTION_STRING)
-        cursor = conn.cursor()
-        cursor.execute(query)
+        with pyodbc.connect(ODBC_CONNECTION_STRING) as conn:
+            cursor = conn.cursor()
+            cursor.execute(fm_query_str)
         
-        # Fetch results
-        rows = cursor.fetchall()
-        columns = [column[0] for column in cursor.description]
-        results = [dict(zip(columns, row)) for row in rows]
-        
-        cursor.close()
-        conn.close()
-        
+            # Fetch results
+            rows = cursor.fetchall()
+            columns = [column[0] for column in cursor.description]
+            results = [dict(zip(columns, row)) for row in rows]
+                
         return json.dumps(results)
     except Exception as e:
         return f"Error executing database query: {str(e)}"
@@ -67,32 +48,34 @@ available_tools = {
     "execute_sql_query": execute_sql_query
 }
 
-# 3. Define the Tool Schema for ChatGPT
+# Define the Tool Schema for ChatGPT
 tools_definition = [
     {
         "type": "function",
         "function": {
             "name": "execute_sql_query",
-            "description": "Run a SQL query on the local database to fetch data required to answer user questions.",
+            "description": "Fetch data required to answer user questions.",
             "parameters": {
                 "type": "object",
-                "properties": {
-                    "query": {
-                        "type": "string",
-                        "description": "The valid SQL query to execute. e.g., SELECT * FROM Users WHERE active=1",
-                    }
-                },
-                "required": ["query"],
+                "properties": {},
+                "required": [],
             },
         },
     }
 ]
 
-# 4. Agent Loop
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# Agent Loop
 def run_ai_agent(user_prompt: str):
     # Initialize conversation with system prompt
     messages = [
-        {"role": "system", "content": "You are a helpful database assistant. You have access to a local database. Use the execute_sql_query tool to fetch data needed to answer the user's questions."},
+        {"role": "system", "content": """
+         You are a helpful database assistant.
+          You have access to a local database, which contains four tables,
+          assets, assignments (of assets to employees), employees, and vendors. 
+         Use the execute_sql_query tool to fetch a flattened view of all assets, assignments, employees, and vendors data to answer the user's questions.
+         """},
         {"role": "user", "content": user_prompt}
     ]
     
@@ -114,14 +97,16 @@ def run_ai_agent(user_prompt: str):
             function_to_call = available_tools.get(function_name)
             
             if function_to_call:
-                function_args = json.loads(tool_call.function.arguments)
-                print(f"\n[Agent Action] Executing: {function_name} with args: {function_args}")
+                # function_args = json.loads(tool_call.function.arguments)
+                # print(f"\n[Agent Action] Executing: {function_name} with args: {function_args}")
+                print(f"\n[Agent Action] Executing: {function_name}")
                 
                 # Execute the local ODBC function
-                function_response = function_to_call(
-                    query=function_args.get("query")
-                )
-                print(f"[Agent Observation] Data fetched: {function_response[:200]}...") # Print snippet of result
+                # function_response = function_to_call(query=function_args.get("query"))
+                function_response = function_to_call()
+
+                # Print snippet of result
+                print(f"[Agent Observation] Data fetched: {function_response[:200]}...") 
                 
                 # Add the function result to conversation memory
                 messages.append(
@@ -144,11 +129,12 @@ def run_ai_agent(user_prompt: str):
         # If ChatGPT didn't need the database, just return its text response
         return response_message.content
 
-# 5. Run the Agent
+# Run the Agent
 if __name__ == "__main__":
-    user_question = "How many total products do we have in our inventory?"
+    user_question = "How many employees have no returned date defined?"
     print(f"User: {user_question}")
     
     answer = run_ai_agent(user_question)
+    # answer = execute_sql_query()
     
-    print(f"\nFinal Answer:\n{answer}")
+    print(f"Response:\n{answer}")
