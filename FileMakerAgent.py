@@ -14,14 +14,14 @@ password = "password"
 ODBC_CONNECTION_STRING = f'DSN={dsn_name};UID={user};PWD={password}'
 
 fm_query_str = """
- SELECT A.Name AS AssetName, A.Description AS AssetDescription , V.Name AS VendorName, T.Note AS AssignmentNote, CAST(T.\"Date Returned\" AS VARCHAR) AS DateReturned, E.\"First Name\" AS EmployeeFirstName, E.\"Last Name\" AS EmployeeLastName
+ SELECT DISTINCT A.Name AS Asset, V.Name AS Vendor, CAST(T.\"Date Returned\" AS VARCHAR) AS Returned, E.PrimaryKey AS Employee
  FROM Employees AS E
  JOIN Assignments AS T ON E.PrimaryKey = T.EmployeeForeignKey
  JOIN Assets AS A ON A.PrimaryKey = T.AssetForeignKey
  LEFT JOIN Vendors AS V ON T.AssetForeignKey = V.ForeignKey
- ORDER BY T.EmployeeForeignKey
- FETCH FIRST 300 ROWS ONLY
- """
+ORDER BY
+    E.PrimaryKey
+"""
 
 
 # Define the Database Tool
@@ -131,10 +131,15 @@ def run_ai_agent(user_prompt: str):
 
 # Run the Agent
 if __name__ == "__main__":
-    user_question = "How many employees have no returned date defined?"
-    print(f"User: {user_question}")
-    
-    answer = run_ai_agent(user_question)
-    # answer = execute_sql_query()
-    
-    print(f"Response:\n{answer}")
+    user_questions = ["How many employees have an undefined returned date?",
+    "How many assets have vendors?",
+    "How many employees have multiple assets assigned to them?",
+    "How many assets are assigned to multiple employees?",
+    "What is the date today?",
+    "How many assigned assets have a defined return date before today?",
+    "How many assigned assets have a defined return date after today?"]
+
+    for user_question in user_questions: 
+        print(f"User: {user_question}")    
+        answer = run_ai_agent(user_question)
+        print(f"Response:\n{answer}")

@@ -1,1 +1,6002 @@
-[{"AssetName": "Printer-Uu-5254", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Donna", "EmployeeLastName": "Peck"}, {"AssetName": "Camera-TL-8713", "VendorName": null, "DateReturned": "2026-03-09", "EmployeeFirstName": "Donna", "EmployeeLastName": "Peck"}, {"AssetName": "Router-sy-9420", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Donna", "EmployeeLastName": "Peck"}, {"AssetName": "Phone-Sc-3182", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Donna", "EmployeeLastName": "Peck"}, {"AssetName": "Camera-Br-3342", "VendorName": null, "DateReturned": "2024-01-08", "EmployeeFirstName": "Michael", "EmployeeLastName": "Jones"}, {"AssetName": "Tablet-oT-3259", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Michael", "EmployeeLastName": "Jones"}, {"AssetName": "Monitor-Ur-0159", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Michael", "EmployeeLastName": "Jones"}, {"AssetName": "Monitor-fI-4442", "VendorName": null, "DateReturned": "2026-06-05", "EmployeeFirstName": "Michael", "EmployeeLastName": "Jones"}, {"AssetName": "Router-gL-9674", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Michael", "EmployeeLastName": "Jones"}, {"AssetName": "Monitor-Cp-2582", "VendorName": null, "DateReturned": "2025-05-18", "EmployeeFirstName": "Joshua", "EmployeeLastName": "Tyler"}, {"AssetName": "Printer-UU-6014", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Joshua", "EmployeeLastName": "Tyler"}, {"AssetName": "Camera-Wk-5575", "VendorName": null, "DateReturned": "2026-08-24", "EmployeeFirstName": "Joshua", "EmployeeLastName": "Tyler"}, {"AssetName": "Laptop-Vj-5475", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Joshua", "EmployeeLastName": "Tyler"}, {"AssetName": "Router-Lm-9991", "VendorName": null, "DateReturned": "2024-04-19", "EmployeeFirstName": "Joshua", "EmployeeLastName": "Tyler"}, {"AssetName": "Server-ZD-4786", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Joshua", "EmployeeLastName": "Tyler"}, {"AssetName": "Monitor-zB-3938", "VendorName": null, "DateReturned": "2027-03-19", "EmployeeFirstName": "Jacqueline", "EmployeeLastName": "Gibson"}, {"AssetName": "Projector-fZ-5633", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jacqueline", "EmployeeLastName": "Gibson"}, {"AssetName": "Projector-nI-9079", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jacqueline", "EmployeeLastName": "Gibson"}, {"AssetName": "Monitor-sQ-9286", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jacqueline", "EmployeeLastName": "Gibson"}, {"AssetName": "Phone-Bo-8501", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Ashley", "EmployeeLastName": "Barnett"}, {"AssetName": "Server-KV-2226", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Ashley", "EmployeeLastName": "Barnett"}, {"AssetName": "Monitor-wi-0399", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Ashley", "EmployeeLastName": "Barnett"}, {"AssetName": "Phone-Vo-5485", "VendorName": null, "DateReturned": "2024-06-10", "EmployeeFirstName": "Ashley", "EmployeeLastName": "Barnett"}, {"AssetName": "Printer-cD-6407", "VendorName": "Campos, Vaughn and Marquez", "DateReturned": "2022-02-23", "EmployeeFirstName": "Ashley", "EmployeeLastName": "Barnett"}, {"AssetName": "Desktop-qO-8105", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "David", "EmployeeLastName": "Caldwell"}, {"AssetName": "Camera-Jt-0753", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "David", "EmployeeLastName": "Caldwell"}, {"AssetName": "Printer-zR-1643", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "David", "EmployeeLastName": "Caldwell"}, {"AssetName": "Server-aG-6032", "VendorName": "Calderon-Williams", "DateReturned": "2025-05-20", "EmployeeFirstName": "David", "EmployeeLastName": "Caldwell"}, {"AssetName": "Server-vN-0870", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Phone-au-0835", "VendorName": null, "DateReturned": "2021-07-15", "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Monitor-zv-1663", "VendorName": null, "DateReturned": "2023-10-24", "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Phone-aj-3509", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Router-fE-7085", "VendorName": null, "DateReturned": "2024-02-11", "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Router-aL-1204", "VendorName": null, "DateReturned": "2025-07-13", "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Router-uv-6990", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Randy", "EmployeeLastName": "Espinoza"}, {"AssetName": "Printer-jX-6474", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Angela", "EmployeeLastName": "Cooper"}, {"AssetName": "Laptop-RD-6291", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Angela", "EmployeeLastName": "Cooper"}, {"AssetName": "Laptop-Rq-9198", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Angela", "EmployeeLastName": "Cooper"}, {"AssetName": "Tablet-XX-8562", "VendorName": null, "DateReturned": "2025-01-29", "EmployeeFirstName": "Angela", "EmployeeLastName": "Cooper"}, {"AssetName": "Phone-bc-7245", "VendorName": null, "DateReturned": "2024-05-24", "EmployeeFirstName": "Robert", "EmployeeLastName": "Clark"}, {"AssetName": "Server-sR-8327", "VendorName": null, "DateReturned": "2027-08-26", "EmployeeFirstName": "Robert", "EmployeeLastName": "Clark"}, {"AssetName": "Camera-ZN-5826", "VendorName": null, "DateReturned": "2021-06-21", "EmployeeFirstName": "Robert", "EmployeeLastName": "Clark"}, {"AssetName": "Phone-Fn-1061", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Robert", "EmployeeLastName": "Clark"}, {"AssetName": "Tablet-pZ-2024", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Robert", "EmployeeLastName": "Clark"}, {"AssetName": "Camera-HA-1467", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Laptop-Em-8549", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Laptop-sk-0833", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Projector-BQ-4582", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Router-Dn-8947", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Phone-sJ-6060", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Tablet-vP-4168", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Charles", "EmployeeLastName": "Harrington"}, {"AssetName": "Desktop-JQ-8984", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jenny", "EmployeeLastName": "Bray"}, {"AssetName": "Router-Ol-4662", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jenny", "EmployeeLastName": "Bray"}, {"AssetName": "Desktop-AU-8564", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jenny", "EmployeeLastName": "Bray"}, {"AssetName": "Camera-ES-2204", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Curtis", "EmployeeLastName": "Smith"}, {"AssetName": "Tablet-wf-4074", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Curtis", "EmployeeLastName": "Smith"}, {"AssetName": "Router-ux-9701", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Curtis", "EmployeeLastName": "Smith"}, {"AssetName": "Server-Zy-9699", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Curtis", "EmployeeLastName": "Smith"}, {"AssetName": "Printer-ob-0898", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Curtis", "EmployeeLastName": "Smith"}, {"AssetName": "Printer-Re-0037", "VendorName": null, "DateReturned": "2024-08-30", "EmployeeFirstName": "Curtis", "EmployeeLastName": "Smith"}, {"AssetName": "Camera-dP-9457", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Tammy", "EmployeeLastName": "King"}, {"AssetName": "Printer-XR-4119", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Tammy", "EmployeeLastName": "King"}, {"AssetName": "Camera-ln-2324", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Tammy", "EmployeeLastName": "King"}, {"AssetName": "Monitor-eB-1307", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Tammy", "EmployeeLastName": "King"}, {"AssetName": "Printer-Mm-7594", "VendorName": "Le, Maldonado and Herrera", "DateReturned": null, "EmployeeFirstName": "Tammy", "EmployeeLastName": "King"}, {"AssetName": "Monitor-FD-9123", "VendorName": "Wilson-Rodriguez", "DateReturned": "2024-05-26", "EmployeeFirstName": "Tammy", "EmployeeLastName": "King"}, {"AssetName": "Router-OV-9137", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Router-KF-9385", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Tablet-kl-3379", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Tablet-wv-3720", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Router-xA-4469", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Printer-GN-8466", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Laptop-Ra-7868", "VendorName": "Kim-Holmes", "DateReturned": null, "EmployeeFirstName": "Alexis", "EmployeeLastName": "Ferguson"}, {"AssetName": "Server-Xd-3754", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Sandra", "EmployeeLastName": "French"}, {"AssetName": "Projector-aN-9705", "VendorName": null, "DateReturned": "2025-08-26", "EmployeeFirstName": "Sandra", "EmployeeLastName": "French"}, {"AssetName": "Router-FP-8670", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Sandra", "EmployeeLastName": "French"}, {"AssetName": "Tablet-Sc-9360", "VendorName": null, "DateReturned": "2022-07-19", "EmployeeFirstName": "Sandra", "EmployeeLastName": "French"}, {"AssetName": "Phone-cH-3088", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Sandra", "EmployeeLastName": "French"}, {"AssetName": "Phone-ed-5588", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Sandra", "EmployeeLastName": "French"}, {"AssetName": "Phone-qn-7333", "VendorName": null, "DateReturned": "2023-06-23", "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Printer-JV-4358", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Tablet-nw-9728", "VendorName": null, "DateReturned": "2024-03-27", "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Projector-XN-7950", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Camera-kQ-0082", "VendorName": null, "DateReturned": "2022-09-20", "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Projector-Ql-9258", "VendorName": "Smith PLC", "DateReturned": null, "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Laptop-Nq-0534", "VendorName": null, "DateReturned": "2026-09-21", "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Monitor-dm-8824", "VendorName": null, "DateReturned": "2022-07-18", "EmployeeFirstName": "Brian", "EmployeeLastName": "Stone"}, {"AssetName": "Desktop-rk-8588", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Angela", "EmployeeLastName": "Lee"}, {"AssetName": "Monitor-eh-8167", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Angela", "EmployeeLastName": "Lee"}, {"AssetName": "Desktop-SE-2822", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Angela", "EmployeeLastName": "Lee"}, {"AssetName": "Server-fW-5669", "VendorName": null, "DateReturned": "2024-12-16", "EmployeeFirstName": "Angela", "EmployeeLastName": "Lee"}, {"AssetName": "Tablet-LQ-3447", "VendorName": null, "DateReturned": "2026-05-13", "EmployeeFirstName": "Angela", "EmployeeLastName": "Lee"}, {"AssetName": "Tablet-kR-9097", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Printer-yO-0649", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Monitor-Zm-9898", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Monitor-dq-2322", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Tablet-vZ-9844", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Tablet-KP-4179", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Server-yQ-0273", "VendorName": null, "DateReturned": "2024-04-27", "EmployeeFirstName": "Jeffery", "EmployeeLastName": "Lee"}, {"AssetName": "Router-kr-9001", "VendorName": null, "DateReturned": null, "EmployeeFirstName": "Nicholas", "EmployeeLastName": "Cantu"}]
+[
+  {
+    "Asset": "Camera-AW-5002",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Erica Le"
+  },
+  {
+    "Asset": "Camera-AY-1764",
+    "Vendor": null,
+    "DateReturned": "2022-09-10",
+    "Employee": "Angela Lee"
+  },
+  {
+    "Asset": "Camera-Ao-0604",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Camera-BN-5186",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Camera-BO-6341",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Camera-Br-3342",
+    "Vendor": null,
+    "DateReturned": "2024-01-08",
+    "Employee": "Jeremiah Mills"
+  },
+  {
+    "Asset": "Camera-Bx-6454",
+    "Vendor": null,
+    "DateReturned": "2028-08-14",
+    "Employee": "Katie Boyd"
+  },
+  {
+    "Asset": "Camera-By-1438",
+    "Vendor": null,
+    "DateReturned": "2024-07-07",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Camera-Ca-8840",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Camera-ED-4525",
+    "Vendor": null,
+    "DateReturned": "2026-02-28",
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Camera-ES-2204",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Rodriguez"
+  },
+  {
+    "Asset": "Camera-Ei-3089",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Camera-FE-1794",
+    "Vendor": "Yang, Gardner and Garza",
+    "DateReturned": null,
+    "Employee": "First Name Last Name"
+  },
+  {
+    "Asset": "Camera-FW-1198",
+    "Vendor": null,
+    "DateReturned": "2022-04-08",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Camera-Fn-3120",
+    "Vendor": null,
+    "DateReturned": "2021-11-01",
+    "Employee": "Kaitlyn Williams"
+  },
+  {
+    "Asset": "Camera-Fw-6555",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kathy Obrien"
+  },
+  {
+    "Asset": "Camera-GI-4221",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Camera-HA-1467",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Camera-HH-9935",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Catherine Morris"
+  },
+  {
+    "Asset": "Camera-Hr-9001",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Camera-Hu-3664",
+    "Vendor": null,
+    "DateReturned": "2027-08-06",
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Camera-JH-0554",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kathy Obrien"
+  },
+  {
+    "Asset": "Camera-JR-2592",
+    "Vendor": "Ford-Baxter",
+    "DateReturned": null,
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Camera-JY-9655",
+    "Vendor": "Walker Ltd",
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Camera-Jq-2616",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Camera-Jt-0753",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Camera-KA-4307",
+    "Vendor": null,
+    "DateReturned": "2025-10-28",
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Camera-KF-5892",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Monique Johnson"
+  },
+  {
+    "Asset": "Camera-KO-9912",
+    "Vendor": null,
+    "DateReturned": "2024-02-16",
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Camera-KW-4983",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Cohen"
+  },
+  {
+    "Asset": "Camera-KY-4590",
+    "Vendor": null,
+    "DateReturned": "2026-11-19",
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Camera-Ku-3744",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Camera-Ku-7480",
+    "Vendor": null,
+    "DateReturned": "2026-03-01",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Camera-Ln-6646",
+    "Vendor": null,
+    "DateReturned": "2028-01-02",
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Camera-MX-7201",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Camera-Ns-7007",
+    "Vendor": null,
+    "DateReturned": "2028-04-20",
+    "Employee": "Bill Reynolds"
+  },
+  {
+    "Asset": "Camera-Ny-2231",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Camera-Ok-5429",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Louis Kennedy"
+  },
+  {
+    "Asset": "Camera-Pf-9584",
+    "Vendor": null,
+    "DateReturned": "2025-11-28",
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Camera-Pw-7179",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Anthony Mccoy"
+  },
+  {
+    "Asset": "Camera-QE-6434",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Camera-RZ-2312",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Camera-SI-2528",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Camera-TL-8713",
+    "Vendor": null,
+    "DateReturned": "2026-03-09",
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Camera-Ti-9484",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Camera-Tv-0450",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jesus Rowe"
+  },
+  {
+    "Asset": "Camera-UX-2473",
+    "Vendor": null,
+    "DateReturned": "2026-02-27",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Camera-Vz-8983",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Schwartz"
+  },
+  {
+    "Asset": "Camera-Wk-5575",
+    "Vendor": null,
+    "DateReturned": "2026-08-24",
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Camera-XX-6447",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Camera-XZ-7753",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Camera-YV-3348",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Camera-Yi-9639",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Camera-Yz-6144",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Camera-ZI-8649",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Camera-ZN-5826",
+    "Vendor": null,
+    "DateReturned": "2021-06-21",
+    "Employee": "Johnny Miller"
+  },
+  {
+    "Asset": "Camera-aH-2560",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Campbell"
+  },
+  {
+    "Asset": "Camera-bP-5498",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Camera-bn-7269",
+    "Vendor": null,
+    "DateReturned": "2025-04-12",
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Camera-cc-5020",
+    "Vendor": null,
+    "DateReturned": "2027-01-27",
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Camera-cf-7457",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Camera-dE-3726",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Camera-dP-9457",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Phelps"
+  },
+  {
+    "Asset": "Camera-dZ-5533",
+    "Vendor": null,
+    "DateReturned": "2026-01-31",
+    "Employee": "Marcus Cordova"
+  },
+  {
+    "Asset": "Camera-fT-5955",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christopher Wright"
+  },
+  {
+    "Asset": "Camera-gN-4842",
+    "Vendor": null,
+    "DateReturned": "2026-04-30",
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Camera-gq-4473",
+    "Vendor": null,
+    "DateReturned": "2023-03-04",
+    "Employee": "Kevin Hayden"
+  },
+  {
+    "Asset": "Camera-hc-0882",
+    "Vendor": null,
+    "DateReturned": "2026-08-21",
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Camera-iS-9183",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christine Allen"
+  },
+  {
+    "Asset": "Camera-ia-2289",
+    "Vendor": null,
+    "DateReturned": "2027-01-11",
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Camera-ia-2699",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Camera-iv-8562",
+    "Vendor": null,
+    "DateReturned": "2028-03-25",
+    "Employee": "Heidi Martinez"
+  },
+  {
+    "Asset": "Camera-jD-2838",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Camera-jD-6781",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Camera-jU-6461",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Arnold"
+  },
+  {
+    "Asset": "Camera-kQ-0082",
+    "Vendor": null,
+    "DateReturned": "2022-09-20",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Camera-ks-1118",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Camera-lI-0509",
+    "Vendor": null,
+    "DateReturned": "2024-04-26",
+    "Employee": "Curtis Smith"
+  },
+  {
+    "Asset": "Camera-lJ-8627",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Curtis Smith"
+  },
+  {
+    "Asset": "Camera-lP-6749",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Camera-lV-7182",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Miller"
+  },
+  {
+    "Asset": "Camera-la-4852",
+    "Vendor": null,
+    "DateReturned": "2026-07-22",
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Camera-ln-2324",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Phelps"
+  },
+  {
+    "Asset": "Camera-ml-6221",
+    "Vendor": null,
+    "DateReturned": "2024-09-24",
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Camera-oZ-5867",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Camera-oc-6914",
+    "Vendor": null,
+    "DateReturned": "2024-08-14",
+    "Employee": "Karen Castaneda"
+  },
+  {
+    "Asset": "Camera-pF-0186",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Camera-pk-8941",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Anne Johnson"
+  },
+  {
+    "Asset": "Camera-qg-8141",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Allen"
+  },
+  {
+    "Asset": "Camera-rA-4093",
+    "Vendor": null,
+    "DateReturned": "2023-11-17",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Camera-sW-7676",
+    "Vendor": null,
+    "DateReturned": "2026-08-05",
+    "Employee": "Patricia Dalton"
+  },
+  {
+    "Asset": "Camera-sc-1537",
+    "Vendor": "Ramirez-Reid",
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Camera-tJ-3953",
+    "Vendor": null,
+    "DateReturned": "2025-07-01",
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Camera-tU-3926",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Camera-uk-7616",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Camera-vR-6370",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Camera-vZ-7848",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Katie Boyd"
+  },
+  {
+    "Asset": "Camera-vf-4492",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Monique Johnson"
+  },
+  {
+    "Asset": "Camera-vg-6175",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Janice Perry"
+  },
+  {
+    "Asset": "Camera-vj-5359",
+    "Vendor": null,
+    "DateReturned": "2025-04-10",
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Camera-vt-0873",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Camera-wK-8629",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Howell"
+  },
+  {
+    "Asset": "Camera-wq-8262",
+    "Vendor": null,
+    "DateReturned": "2024-08-19",
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Camera-xS-2293",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Katie Boyd"
+  },
+  {
+    "Asset": "Camera-zs-4722",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Desktop-AP-7157",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Barbara Hines"
+  },
+  {
+    "Asset": "Desktop-AU-8564",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Desktop-AY-4362",
+    "Vendor": null,
+    "DateReturned": "2023-10-05",
+    "Employee": "Jennifer Cruz"
+  },
+  {
+    "Asset": "Desktop-BZ-7039",
+    "Vendor": null,
+    "DateReturned": "2026-01-02",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Desktop-Cp-0333",
+    "Vendor": null,
+    "DateReturned": "2028-08-14",
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Desktop-DQ-9295",
+    "Vendor": null,
+    "DateReturned": "2025-05-17",
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Desktop-DV-7516",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Cheryl Mack"
+  },
+  {
+    "Asset": "Desktop-EN-9516",
+    "Vendor": null,
+    "DateReturned": "2028-03-23",
+    "Employee": "Brandon Flynn"
+  },
+  {
+    "Asset": "Desktop-Ef-0511",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Desktop-Ej-6220",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Desktop-Ez-4700",
+    "Vendor": null,
+    "DateReturned": "2025-12-31",
+    "Employee": "Marcus Cordova"
+  },
+  {
+    "Asset": "Desktop-GK-6572",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Desktop-Hj-9821",
+    "Vendor": null,
+    "DateReturned": "2025-04-30",
+    "Employee": "Matthew Schwartz"
+  },
+  {
+    "Asset": "Desktop-IV-7884",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Desktop-Ik-8151",
+    "Vendor": null,
+    "DateReturned": "2024-04-23",
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Desktop-In-5539",
+    "Vendor": null,
+    "DateReturned": "2025-03-16",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Desktop-JF-0056",
+    "Vendor": "Clark-Adams",
+    "DateReturned": null,
+    "Employee": "Brian Sparks"
+  },
+  {
+    "Asset": "Desktop-JQ-8984",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Desktop-Js-1125",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Desktop-Jv-4346",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Desktop-Jy-8860",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Desktop-KJ-4266",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Desktop-Ks-4233",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Desktop-LG-6896",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Desktop-LX-8663",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Desktop-Mh-1102",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jesus Rowe"
+  },
+  {
+    "Asset": "Desktop-OD-7228",
+    "Vendor": null,
+    "DateReturned": "2026-04-24",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Desktop-OK-6128",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Desktop-Ob-7238",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jennifer Evans"
+  },
+  {
+    "Asset": "Desktop-Ol-4290",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Desktop-PN-7033",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Desktop-Pr-0881",
+    "Vendor": null,
+    "DateReturned": "2024-08-04",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Desktop-QK-9080",
+    "Vendor": "Joyce, Garcia and Powell",
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Desktop-Qk-8379",
+    "Vendor": "Powers LLC",
+    "DateReturned": null,
+    "Employee": "Katie Boyd"
+  },
+  {
+    "Asset": "Desktop-Qy-3680",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Desktop-Ro-5021",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Desktop-SE-2822",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Desktop-SL-9782",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kathy Obrien"
+  },
+  {
+    "Asset": "Desktop-SX-8306",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Barnett"
+  },
+  {
+    "Asset": "Desktop-Sa-4346",
+    "Vendor": null,
+    "DateReturned": "2027-09-26",
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Desktop-UA-3849",
+    "Vendor": "Martin Group",
+    "DateReturned": "2025-01-04",
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Desktop-Uv-0238",
+    "Vendor": null,
+    "DateReturned": "2024-10-25",
+    "Employee": "Catherine Morris"
+  },
+  {
+    "Asset": "Desktop-Uz-4203",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Desktop-VE-6486",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Desktop-WE-0493",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Desktop-WZ-2272",
+    "Vendor": null,
+    "DateReturned": "2025-09-17",
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Desktop-Wu-8297",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kaitlyn Williams"
+  },
+  {
+    "Asset": "Desktop-XR-2745",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Desktop-Ys-2484",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Desktop-ZF-5016",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jeffery Lee"
+  },
+  {
+    "Asset": "Desktop-ZM-4435",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Desktop-Zq-2034",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Desktop-aQ-1703",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Bryan"
+  },
+  {
+    "Asset": "Desktop-aT-0580",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Desktop-ah-3992",
+    "Vendor": null,
+    "DateReturned": "2024-12-24",
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Desktop-ay-3773",
+    "Vendor": null,
+    "DateReturned": "2022-04-10",
+    "Employee": "Michelle Bryan"
+  },
+  {
+    "Asset": "Desktop-cV-6522",
+    "Vendor": null,
+    "DateReturned": "2024-03-24",
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Desktop-da-3129",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Desktop-dx-6708",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Desktop-eC-7312",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Desktop-eb-1994",
+    "Vendor": null,
+    "DateReturned": "2025-04-17",
+    "Employee": "Jennifer Cruz"
+  },
+  {
+    "Asset": "Desktop-eh-9189",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Anthony Mccoy"
+  },
+  {
+    "Asset": "Desktop-fA-9236",
+    "Vendor": null,
+    "DateReturned": "2024-06-10",
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Desktop-fJ-5119",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Desktop-fh-9501",
+    "Vendor": "Higgins, Moore and Phillips",
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Desktop-fu-3860",
+    "Vendor": null,
+    "DateReturned": "2023-05-03",
+    "Employee": "Danny Walker"
+  },
+  {
+    "Asset": "Desktop-fw-3765",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Desktop-gH-1371",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jesus Rowe"
+  },
+  {
+    "Asset": "Desktop-gK-4203",
+    "Vendor": null,
+    "DateReturned": "2024-03-20",
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Desktop-hT-1648",
+    "Vendor": null,
+    "DateReturned": "2025-06-29",
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Desktop-hx-3087",
+    "Vendor": null,
+    "DateReturned": "2026-07-02",
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Desktop-iC-7366",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Desktop-jb-7451",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Desktop-je-4421",
+    "Vendor": null,
+    "DateReturned": "2027-04-08",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Desktop-kb-7961",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Desktop-lW-4278",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Howell"
+  },
+  {
+    "Asset": "Desktop-lj-2581",
+    "Vendor": null,
+    "DateReturned": "2027-08-07",
+    "Employee": "Christopher Wright"
+  },
+  {
+    "Asset": "Desktop-ll-4909",
+    "Vendor": null,
+    "DateReturned": "2025-11-16",
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Desktop-mW-4141",
+    "Vendor": "Walker-Velasquez",
+    "DateReturned": "2023-05-25",
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Desktop-md-3993",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Desktop-mk-6824",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heidi Martinez"
+  },
+  {
+    "Asset": "Desktop-mp-4086",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Desktop-nt-0491",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Desktop-oZ-4578",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Desktop-qO-8105",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Desktop-qc-5846",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Desktop-rW-7499",
+    "Vendor": null,
+    "DateReturned": "2027-03-03",
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Desktop-rk-8588",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Desktop-sl-0033",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Amber Kim"
+  },
+  {
+    "Asset": "Desktop-tg-0236",
+    "Vendor": null,
+    "DateReturned": "2024-11-13",
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Desktop-uA-3799",
+    "Vendor": null,
+    "DateReturned": "2023-03-24",
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Desktop-uC-1443",
+    "Vendor": "Lin-Rasmussen",
+    "DateReturned": "2027-01-15",
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Desktop-uj-1218",
+    "Vendor": null,
+    "DateReturned": "2028-01-04",
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Desktop-ut-5489",
+    "Vendor": null,
+    "DateReturned": "2027-05-31",
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Desktop-vl-5653",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Curtis Smith"
+  },
+  {
+    "Asset": "Desktop-xJ-8872",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Desktop-xQ-7782",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Desktop-xd-0177",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Desktop-xg-2333",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Desktop-xx-5010",
+    "Vendor": null,
+    "DateReturned": "2027-02-13",
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Desktop-yu-3301",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Laptop-Aj-8546",
+    "Vendor": null,
+    "DateReturned": "2025-01-12",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Laptop-CA-8053",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Laptop-Cp-0537",
+    "Vendor": null,
+    "DateReturned": "2025-06-22",
+    "Employee": "Janice Perry"
+  },
+  {
+    "Asset": "Laptop-Cy-5837",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Laptop-EE-7337",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Laptop-EJ-7251",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-EP-0159",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Laptop-EU-1981",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Danny Walker"
+  },
+  {
+    "Asset": "Laptop-EY-6464",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Karen Castaneda"
+  },
+  {
+    "Asset": "Laptop-Em-8549",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-Eo-1747",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Laptop-FL-1823",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jacqueline Gibson"
+  },
+  {
+    "Asset": "Laptop-HV-4185",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Laptop-KJ-0126",
+    "Vendor": "Jacobs-Robbins",
+    "DateReturned": null,
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Laptop-KQ-2284",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Laptop-Ko-6754",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Laptop-Kv-4575",
+    "Vendor": "Davis-Abbott",
+    "DateReturned": null,
+    "Employee": "Barbara Hines"
+  },
+  {
+    "Asset": "Laptop-LT-9944",
+    "Vendor": null,
+    "DateReturned": "2026-05-06",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Laptop-LX-5097",
+    "Vendor": null,
+    "DateReturned": "2023-12-13",
+    "Employee": "Kaitlyn Carroll"
+  },
+  {
+    "Asset": "Laptop-Ls-5922",
+    "Vendor": null,
+    "DateReturned": "2022-10-08",
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Laptop-Ly-5295",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Laptop-MP-0047",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Laptop-MP-5355",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Laptop-MV-7676",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Laptop-Mc-8401",
+    "Vendor": null,
+    "DateReturned": "2026-05-12",
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Laptop-Mi-5561",
+    "Vendor": null,
+    "DateReturned": "2026-04-09",
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Laptop-Mv-2274",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Laptop-NJ-1370",
+    "Vendor": null,
+    "DateReturned": "2025-03-19",
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Laptop-Nq-0534",
+    "Vendor": null,
+    "DateReturned": "2026-09-21",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Laptop-OK-6888",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Laptop-Pg-9868",
+    "Vendor": null,
+    "DateReturned": "2026-08-20",
+    "Employee": "Curtis Smith"
+  },
+  {
+    "Asset": "Laptop-Pm-1053",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Laptop-QG-7535",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Louis Kennedy"
+  },
+  {
+    "Asset": "Laptop-RD-6291",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Laptop-RR-6551",
+    "Vendor": "Aguilar-Hernandez",
+    "DateReturned": "2026-10-07",
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Laptop-Ra-7868",
+    "Vendor": "Kim-Holmes",
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Laptop-Rq-9198",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Laptop-Ry-8026",
+    "Vendor": "Morgan PLC",
+    "DateReturned": null,
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Laptop-SK-5612",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Laptop-TT-0085",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kaitlyn Carroll"
+  },
+  {
+    "Asset": "Laptop-Ul-2397",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Marcus Cordova"
+  },
+  {
+    "Asset": "Laptop-Ul-9626",
+    "Vendor": null,
+    "DateReturned": "2023-05-15",
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Laptop-VI-8385",
+    "Vendor": null,
+    "DateReturned": "2022-08-19",
+    "Employee": "Jennifer Cruz"
+  },
+  {
+    "Asset": "Laptop-Vj-5475",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Laptop-Xu-3552",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Laptop-YK-3440",
+    "Vendor": null,
+    "DateReturned": "2023-03-17",
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Laptop-ab-1459",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Cheyenne Ball"
+  },
+  {
+    "Asset": "Laptop-at-3965",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Laptop-cL-1039",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Laptop-cm-1076",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Laptop-dC-2161",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-er-5089",
+    "Vendor": null,
+    "DateReturned": "2026-10-26",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-fJ-2604",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Bryan"
+  },
+  {
+    "Asset": "Laptop-iE-3134",
+    "Vendor": null,
+    "DateReturned": "2024-01-17",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Laptop-iZ-3238",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Laptop-if-7499",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Laptop-jX-5076",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Curtis Smith"
+  },
+  {
+    "Asset": "Laptop-kT-2403",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Laptop-ko-9522",
+    "Vendor": null,
+    "DateReturned": "2026-02-18",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Laptop-kz-7624",
+    "Vendor": null,
+    "DateReturned": "2023-07-16",
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Laptop-ls-1027",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Laptop-ly-4989",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Laptop-mI-2334",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "David Caldwell"
+  },
+  {
+    "Asset": "Laptop-mX-8188",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Smith"
+  },
+  {
+    "Asset": "Laptop-nC-2989",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Laptop-nD-4355",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Edward Shepherd"
+  },
+  {
+    "Asset": "Laptop-nL-1777",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Laptop-nb-1350",
+    "Vendor": null,
+    "DateReturned": "2024-06-22",
+    "Employee": "First Name Last Name"
+  },
+  {
+    "Asset": "Laptop-nd-8597",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Laptop-on-8615",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-pE-1285",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Laptop-qh-3997",
+    "Vendor": "Brown PLC",
+    "DateReturned": "2027-04-09",
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Laptop-rG-7209",
+    "Vendor": "Allen-Allen",
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Laptop-rv-3445",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jeffery Lee"
+  },
+  {
+    "Asset": "Laptop-sP-6265",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Laptop-sQ-6433",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Howell"
+  },
+  {
+    "Asset": "Laptop-sk-0833",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-tl-9847",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Laptop-uF-1618",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Laptop-uM-3865",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Karen Castaneda"
+  },
+  {
+    "Asset": "Laptop-uO-2419",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Laptop-vP-0286",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christopher Walker"
+  },
+  {
+    "Asset": "Laptop-wt-8197",
+    "Vendor": null,
+    "DateReturned": "2025-08-16",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Laptop-xw-9702",
+    "Vendor": null,
+    "DateReturned": "2025-01-17",
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Laptop-yR-2162",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Laptop-yZ-4670",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Laptop-yf-5676",
+    "Vendor": null,
+    "DateReturned": "2025-03-07",
+    "Employee": "Jennifer Evans"
+  },
+  {
+    "Asset": "Laptop-yh-1168",
+    "Vendor": null,
+    "DateReturned": "2025-05-18",
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Laptop-yk-4858",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Cohen"
+  },
+  {
+    "Asset": "Laptop-yk-5725",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Laptop-zC-6035",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Laptop-zs-3239",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Monitor-Ac-7491",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Monitor-BA-3279",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Landry"
+  },
+  {
+    "Asset": "Monitor-BN-2679",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Monitor-BU-5349",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rachel Byrd"
+  },
+  {
+    "Asset": "Monitor-Bk-9485",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Monitor-Bl-7491",
+    "Vendor": null,
+    "DateReturned": "2024-03-03",
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Monitor-Bx-6028",
+    "Vendor": null,
+    "DateReturned": "2025-09-08",
+    "Employee": "Ashley Sullivan"
+  },
+  {
+    "Asset": "Monitor-Cp-2582",
+    "Vendor": null,
+    "DateReturned": "2025-05-18",
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Monitor-Dx-8832",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Hayden"
+  },
+  {
+    "Asset": "Monitor-Er-9707",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Monitor-FD-9123",
+    "Vendor": "Wilson-Rodriguez",
+    "DateReturned": "2024-05-26",
+    "Employee": "Melissa Phelps"
+  },
+  {
+    "Asset": "Monitor-Fq-0434",
+    "Vendor": null,
+    "DateReturned": "2025-04-16",
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Monitor-Gi-3763",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Monitor-Go-4585",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Monitor-Gw-6780",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Monitor-Gx-9367",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Monitor-Gz-2670",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Monitor-HN-0967",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Monitor-HY-2758",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Monitor-Hq-1203",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Monitor-JZ-4558",
+    "Vendor": null,
+    "DateReturned": "2025-07-01",
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Monitor-KE-0382",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Monitor-KL-1622",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Monitor-Lc-4500",
+    "Vendor": null,
+    "DateReturned": "2026-05-05",
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Monitor-Lj-1829",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Monitor-Lm-6566",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Monitor-Lo-3831",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Monitor-Mf-9431",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Allen"
+  },
+  {
+    "Asset": "Monitor-Mp-1531",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Monitor-Mz-3450",
+    "Vendor": "Wagner-King",
+    "DateReturned": "2025-04-30",
+    "Employee": "Christopher Walker"
+  },
+  {
+    "Asset": "Monitor-NA-4873",
+    "Vendor": null,
+    "DateReturned": "2025-03-25",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Monitor-NE-0102",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Monitor-Ol-8388",
+    "Vendor": null,
+    "DateReturned": "2026-08-28",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Monitor-QC-7663",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Louis Kennedy"
+  },
+  {
+    "Asset": "Monitor-QW-9692",
+    "Vendor": null,
+    "DateReturned": "2024-12-03",
+    "Employee": "John Douglas"
+  },
+  {
+    "Asset": "Monitor-RP-6438",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Monitor-Rh-6643",
+    "Vendor": null,
+    "DateReturned": "2022-03-28",
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Monitor-SN-0128",
+    "Vendor": null,
+    "DateReturned": "2025-01-10",
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Monitor-Sj-2591",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Cohen"
+  },
+  {
+    "Asset": "Monitor-Tl-7621",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Smith"
+  },
+  {
+    "Asset": "Monitor-UM-7639",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Monitor-Ur-0159",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jeremiah Mills"
+  },
+  {
+    "Asset": "Monitor-VN-7418",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Monitor-WZ-6933",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Campbell"
+  },
+  {
+    "Asset": "Monitor-YH-3735",
+    "Vendor": "Frost and Sons",
+    "DateReturned": null,
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Monitor-Zm-9898",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Monitor-aZ-1134",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Monitor-ag-4234",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Monitor-al-7681",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Monitor-cX-2532",
+    "Vendor": null,
+    "DateReturned": "2028-04-28",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Monitor-cY-8624",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Erica Le"
+  },
+  {
+    "Asset": "Monitor-ci-0297",
+    "Vendor": null,
+    "DateReturned": "2022-11-09",
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Monitor-cr-4765",
+    "Vendor": null,
+    "DateReturned": "2025-12-24",
+    "Employee": "Michelle Bryan"
+  },
+  {
+    "Asset": "Monitor-dm-8824",
+    "Vendor": null,
+    "DateReturned": "2022-07-18",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Monitor-dq-2322",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Monitor-eB-1307",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Phelps"
+  },
+  {
+    "Asset": "Monitor-eX-2103",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Monitor-ee-8027",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Monitor-eh-8167",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Monitor-fI-4442",
+    "Vendor": null,
+    "DateReturned": "2026-06-05",
+    "Employee": "Jeremiah Mills"
+  },
+  {
+    "Asset": "Monitor-fL-4605",
+    "Vendor": null,
+    "DateReturned": "2024-03-04",
+    "Employee": "Jennifer Cruz"
+  },
+  {
+    "Asset": "Monitor-fu-8636",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christine Allen"
+  },
+  {
+    "Asset": "Monitor-gs-7213",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Monitor-hx-3768",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Monitor-kN-6204",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Monitor-kj-2642",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Monitor-kk-7274",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Monitor-kp-4876",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Monitor-lr-4064",
+    "Vendor": null,
+    "DateReturned": "2024-07-05",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Monitor-mE-5014",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Monitor-nW-0597",
+    "Vendor": null,
+    "DateReturned": "2024-05-18",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Monitor-oH-3337",
+    "Vendor": null,
+    "DateReturned": "2026-12-31",
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Monitor-pf-0520",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Monitor-pi-5768",
+    "Vendor": null,
+    "DateReturned": "2025-04-07",
+    "Employee": "Cheyenne Ball"
+  },
+  {
+    "Asset": "Monitor-pj-0422",
+    "Vendor": null,
+    "DateReturned": "2026-10-16",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Monitor-pn-1905",
+    "Vendor": null,
+    "DateReturned": "2024-10-15",
+    "Employee": "Amanda Meadows"
+  },
+  {
+    "Asset": "Monitor-rC-8597",
+    "Vendor": null,
+    "DateReturned": "2023-09-26",
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Monitor-ra-4239",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Monitor-sA-5071",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Clark"
+  },
+  {
+    "Asset": "Monitor-sB-7386",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Monitor-sQ-9286",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Monitor-tH-3915",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Monitor-ts-3725",
+    "Vendor": "Mitchell-Horton",
+    "DateReturned": null,
+    "Employee": "Jacqueline Gibson"
+  },
+  {
+    "Asset": "Monitor-uD-9326",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Anderson"
+  },
+  {
+    "Asset": "Monitor-vA-4624",
+    "Vendor": null,
+    "DateReturned": "2023-07-02",
+    "Employee": "Barbara Hines"
+  },
+  {
+    "Asset": "Monitor-vo-6112",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "First Name Last Name"
+  },
+  {
+    "Asset": "Monitor-wL-6376",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Monitor-wi-0399",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Rogers"
+  },
+  {
+    "Asset": "Monitor-xs-1970",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Monitor-yA-7036",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Monitor-yk-2427",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Monitor-zB-3938",
+    "Vendor": null,
+    "DateReturned": "2027-03-19",
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Monitor-zv-1663",
+    "Vendor": null,
+    "DateReturned": "2023-10-24",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Phone-AA-6326",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Phone-AJ-3767",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Phone-BB-3097",
+    "Vendor": null,
+    "DateReturned": "2025-02-26",
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Phone-BH-2767",
+    "Vendor": "Santos, Gardner and Robinson",
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Phone-BJ-8335",
+    "Vendor": "Allen-Allen",
+    "DateReturned": "2023-07-24",
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Phone-Bo-8501",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Rogers"
+  },
+  {
+    "Asset": "Phone-Cb-7992",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Phone-Ek-8210",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Andrea Davis"
+  },
+  {
+    "Asset": "Phone-Fb-6661",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Schwartz"
+  },
+  {
+    "Asset": "Phone-Fn-1061",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Johnny Miller"
+  },
+  {
+    "Asset": "Phone-GJ-2683",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Phone-Gv-3516",
+    "Vendor": "Hurst-Ross",
+    "DateReturned": null,
+    "Employee": "Rachel Byrd"
+  },
+  {
+    "Asset": "Phone-Ho-0939",
+    "Vendor": null,
+    "DateReturned": "2024-06-26",
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Phone-ID-6459",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Phone-KY-6547",
+    "Vendor": null,
+    "DateReturned": "2025-02-10",
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Phone-Kf-9049",
+    "Vendor": "Brown, Edwards and Williams",
+    "DateReturned": null,
+    "Employee": "Christine Allen"
+  },
+  {
+    "Asset": "Phone-MO-8058",
+    "Vendor": null,
+    "DateReturned": "2025-03-18",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Phone-Mq-0047",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Phone-My-0592",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Bryan"
+  },
+  {
+    "Asset": "Phone-NI-9177",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Phone-Nj-8114",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Phone-Nl-1557",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Phone-OA-2593",
+    "Vendor": null,
+    "DateReturned": "2023-12-02",
+    "Employee": "Donna Campbell"
+  },
+  {
+    "Asset": "Phone-Oa-5779",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Phone-Ol-5277",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Phone-PH-1055",
+    "Vendor": null,
+    "DateReturned": "2027-11-23",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Phone-Pu-8216",
+    "Vendor": "Adams Ltd",
+    "DateReturned": null,
+    "Employee": "Renee Smith"
+  },
+  {
+    "Asset": "Phone-RN-2168",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jasmine Graham"
+  },
+  {
+    "Asset": "Phone-RT-9079",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Clark"
+  },
+  {
+    "Asset": "Phone-Rv-5801",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Phone-Sc-3182",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Phone-TV-5402",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Phone-VV-5761",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Curtis Smith"
+  },
+  {
+    "Asset": "Phone-VV-6233",
+    "Vendor": null,
+    "DateReturned": "2023-04-28",
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Phone-Ve-2192",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Amanda Navarro"
+  },
+  {
+    "Asset": "Phone-Vo-5485",
+    "Vendor": null,
+    "DateReturned": "2024-06-10",
+    "Employee": "Jimmy Rogers"
+  },
+  {
+    "Asset": "Phone-Vp-2106",
+    "Vendor": "Ross, Zavala and Herrera",
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Phone-Vp-4267",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Amanda Knight"
+  },
+  {
+    "Asset": "Phone-WO-1329",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Phone-XJ-9169",
+    "Vendor": "Baker, Mason and White",
+    "DateReturned": "2025-01-16",
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Phone-Xs-5134",
+    "Vendor": null,
+    "DateReturned": "2024-05-23",
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Phone-YK-7737",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Phone-YP-0027",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Phone-Yg-2900",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Phone-Yw-0710",
+    "Vendor": null,
+    "DateReturned": "2026-08-26",
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Phone-ZW-8102",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Phone-Ze-5080",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heidi Martinez"
+  },
+  {
+    "Asset": "Phone-Zr-7454",
+    "Vendor": null,
+    "DateReturned": "2025-07-04",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Phone-aT-7615",
+    "Vendor": "White LLC",
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Phone-aj-3509",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Phone-aj-9255",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rachel Byrd"
+  },
+  {
+    "Asset": "Phone-au-0835",
+    "Vendor": null,
+    "DateReturned": "2021-07-15",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Phone-bS-9864",
+    "Vendor": null,
+    "DateReturned": "2025-08-10",
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Phone-bc-7245",
+    "Vendor": null,
+    "DateReturned": "2024-05-24",
+    "Employee": "Johnny Miller"
+  },
+  {
+    "Asset": "Phone-bz-2841",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kaitlyn Williams"
+  },
+  {
+    "Asset": "Phone-cH-3088",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Cannon"
+  },
+  {
+    "Asset": "Phone-dG-4519",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Phone-dZ-3746",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Phone-db-4338",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Phone-ed-5588",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Cannon"
+  },
+  {
+    "Asset": "Phone-em-6174",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Phone-fM-1435",
+    "Vendor": null,
+    "DateReturned": "2022-11-11",
+    "Employee": "Erica Le"
+  },
+  {
+    "Asset": "Phone-fP-6774",
+    "Vendor": null,
+    "DateReturned": "2024-06-27",
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Phone-fo-9812",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Phone-fs-7912",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brittany Rivas"
+  },
+  {
+    "Asset": "Phone-gD-8503",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Phone-hx-0982",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Anderson"
+  },
+  {
+    "Asset": "Phone-jz-7880",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Phone-kE-3938",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Phone-lF-6861",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Phone-mY-1090",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Phone-nJ-6535",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Edward Shepherd"
+  },
+  {
+    "Asset": "Phone-nt-6452",
+    "Vendor": null,
+    "DateReturned": "2024-05-30",
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Phone-oI-2953",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Black"
+  },
+  {
+    "Asset": "Phone-oa-7992",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Phone-og-8814",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Phone-om-9964",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Phone-pQ-4685",
+    "Vendor": "Rodriguez Ltd",
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Phone-pQ-4905",
+    "Vendor": null,
+    "DateReturned": "2026-12-14",
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Phone-pr-4555",
+    "Vendor": null,
+    "DateReturned": "2025-08-26",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Phone-qK-5957",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Phone-qn-7333",
+    "Vendor": null,
+    "DateReturned": "2023-06-23",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Phone-qr-0092",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Phone-qs-6109",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Phone-sJ-6060",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Phone-si-9522",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Phone-st-1862",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Phone-tO-3670",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Phone-ug-3240",
+    "Vendor": "Whitney, Martin and Ramos",
+    "DateReturned": "2025-07-04",
+    "Employee": "Benjamin Miller"
+  },
+  {
+    "Asset": "Phone-vR-6701",
+    "Vendor": null,
+    "DateReturned": "2021-11-15",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Phone-vd-7666",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Arnold"
+  },
+  {
+    "Asset": "Phone-vl-6676",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Smith"
+  },
+  {
+    "Asset": "Phone-vn-4770",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Phone-wQ-9567",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Phone-wR-8619",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Phone-wT-2560",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Phone-wy-7789",
+    "Vendor": null,
+    "DateReturned": "2024-06-25",
+    "Employee": "Kimberly Robinson"
+  },
+  {
+    "Asset": "Phone-xC-3293",
+    "Vendor": "Sellers, George and Burns",
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Phone-xR-7371",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christopher Walker"
+  },
+  {
+    "Asset": "Phone-xt-2154",
+    "Vendor": null,
+    "DateReturned": "2027-10-31",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Phone-yj-3075",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Janice Perry"
+  },
+  {
+    "Asset": "Phone-zV-7397",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Phone-zb-9984",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jennifer Evans"
+  },
+  {
+    "Asset": "Phone-zd-6831",
+    "Vendor": null,
+    "DateReturned": "2026-05-06",
+    "Employee": "Benjamin Miller"
+  },
+  {
+    "Asset": "Printer-AX-4932",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brian Sparks"
+  },
+  {
+    "Asset": "Printer-BG-3445",
+    "Vendor": null,
+    "DateReturned": "2023-02-26",
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Printer-BQ-0287",
+    "Vendor": null,
+    "DateReturned": "2022-08-22",
+    "Employee": "Cheryl Mack"
+  },
+  {
+    "Asset": "Printer-Br-5784",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jasmine Graham"
+  },
+  {
+    "Asset": "Printer-Cg-3805",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Printer-DJ-1347",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Printer-FZ-0148",
+    "Vendor": null,
+    "DateReturned": "2026-09-27",
+    "Employee": "Benjamin Miller"
+  },
+  {
+    "Asset": "Printer-Fm-4271",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Anderson"
+  },
+  {
+    "Asset": "Printer-GJ-6856",
+    "Vendor": "Nolan-Flynn",
+    "DateReturned": "2026-10-09",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Printer-GN-8466",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Printer-Gs-8694",
+    "Vendor": null,
+    "DateReturned": "2024-03-12",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Printer-IS-5228",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mary Howell"
+  },
+  {
+    "Asset": "Printer-If-3465",
+    "Vendor": null,
+    "DateReturned": "2025-11-03",
+    "Employee": "Joseph Miller"
+  },
+  {
+    "Asset": "Printer-Ii-8736",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Printer-JP-2423",
+    "Vendor": null,
+    "DateReturned": "2024-04-29",
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Printer-JV-4358",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Printer-Jm-0889",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Printer-KG-1052",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Printer-Ki-0472",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Bill Reynolds"
+  },
+  {
+    "Asset": "Printer-LB-8784",
+    "Vendor": "Mcgee PLC",
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Printer-Mm-7594",
+    "Vendor": "Le, Maldonado and Herrera",
+    "DateReturned": null,
+    "Employee": "Melissa Phelps"
+  },
+  {
+    "Asset": "Printer-Mr-4362",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Printer-NA-1459",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "John Douglas"
+  },
+  {
+    "Asset": "Printer-Ng-7715",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Karen Castaneda"
+  },
+  {
+    "Asset": "Printer-Nj-0804",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Black"
+  },
+  {
+    "Asset": "Printer-Nv-7118",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Printer-Ox-1117",
+    "Vendor": null,
+    "DateReturned": "2023-09-04",
+    "Employee": "Heidi Martinez"
+  },
+  {
+    "Asset": "Printer-Oz-4667",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Catherine Morris"
+  },
+  {
+    "Asset": "Printer-PN-3008",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Printer-Pr-8569",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Printer-Pt-7618",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Monique Johnson"
+  },
+  {
+    "Asset": "Printer-Pt-7865",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kathy Obrien"
+  },
+  {
+    "Asset": "Printer-QZ-3756",
+    "Vendor": "Carter, Fuller and Mcclure",
+    "DateReturned": null,
+    "Employee": "Brandon Flynn"
+  },
+  {
+    "Asset": "Printer-RE-5452",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jennifer Evans"
+  },
+  {
+    "Asset": "Printer-Re-0037",
+    "Vendor": null,
+    "DateReturned": "2024-08-30",
+    "Employee": "Melissa Rodriguez"
+  },
+  {
+    "Asset": "Printer-Re-8625",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Printer-Rr-5769",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Printer-Sn-8179",
+    "Vendor": null,
+    "DateReturned": "2025-03-31",
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Printer-TB-1452",
+    "Vendor": null,
+    "DateReturned": "2023-04-26",
+    "Employee": "Jorge Murphy"
+  },
+  {
+    "Asset": "Printer-Tc-8683",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Printer-Td-6880",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Printer-Tl-5270",
+    "Vendor": null,
+    "DateReturned": "2023-05-11",
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Printer-Tl-9775",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Anne Johnson"
+  },
+  {
+    "Asset": "Printer-Tu-8948",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Printer-UU-6014",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Printer-Uu-5254",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Printer-Uw-9255",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Printer-Vr-4222",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christopher Wright"
+  },
+  {
+    "Asset": "Printer-WI-8195",
+    "Vendor": null,
+    "DateReturned": "2024-08-27",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Printer-WP-4961",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Printer-WY-4812",
+    "Vendor": null,
+    "DateReturned": "2027-03-04",
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Printer-XD-6183",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kathy Obrien"
+  },
+  {
+    "Asset": "Printer-XJ-3387",
+    "Vendor": "Blake and Sons",
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Printer-XK-3916",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Printer-XR-4119",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Phelps"
+  },
+  {
+    "Asset": "Printer-Xa-3520",
+    "Vendor": null,
+    "DateReturned": "2025-07-07",
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Printer-Yp-8650",
+    "Vendor": "Rodriguez, Figueroa and Sanchez",
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Printer-ag-4027",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Printer-ah-6497",
+    "Vendor": null,
+    "DateReturned": "2024-02-29",
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Printer-aj-9974",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Printer-al-5238",
+    "Vendor": null,
+    "DateReturned": "2024-02-05",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Printer-ao-7537",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Printer-bJ-9967",
+    "Vendor": null,
+    "DateReturned": "2027-03-15",
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Printer-bR-1886",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Printer-cD-6407",
+    "Vendor": "Campos, Vaughn and Marquez",
+    "DateReturned": "2022-02-23",
+    "Employee": "Jimmy Rogers"
+  },
+  {
+    "Asset": "Printer-cI-7026",
+    "Vendor": null,
+    "DateReturned": "2023-11-19",
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Printer-cX-7548",
+    "Vendor": "Blair PLC",
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Printer-cs-1658",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Printer-dM-8051",
+    "Vendor": "Smith Ltd",
+    "DateReturned": null,
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Printer-dS-6932",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Printer-eb-8783",
+    "Vendor": "Cruz PLC",
+    "DateReturned": null,
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Printer-fA-8495",
+    "Vendor": "Porter, Wilkerson and Day",
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Printer-fF-3203",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Printer-fO-8666",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Arnold"
+  },
+  {
+    "Asset": "Printer-fR-9289",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Printer-fg-4358",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "John Douglas"
+  },
+  {
+    "Asset": "Printer-gX-8201",
+    "Vendor": null,
+    "DateReturned": "2023-11-18",
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Printer-gb-2923",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Printer-hH-5441",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Benjamin Miller"
+  },
+  {
+    "Asset": "Printer-hV-1283",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Miller"
+  },
+  {
+    "Asset": "Printer-ha-9692",
+    "Vendor": null,
+    "DateReturned": "2024-10-06",
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Printer-hr-7886",
+    "Vendor": null,
+    "DateReturned": "2024-02-26",
+    "Employee": "Marcus Cordova"
+  },
+  {
+    "Asset": "Printer-iA-6270",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Printer-jX-6474",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Printer-ko-5364",
+    "Vendor": null,
+    "DateReturned": "2025-03-18",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Printer-lh-7436",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Clark"
+  },
+  {
+    "Asset": "Printer-ls-0101",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Sullivan"
+  },
+  {
+    "Asset": "Printer-nP-4326",
+    "Vendor": null,
+    "DateReturned": "2026-05-06",
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Printer-nn-9626",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Printer-oC-6320",
+    "Vendor": null,
+    "DateReturned": "2024-11-22",
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Printer-ob-0898",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Rodriguez"
+  },
+  {
+    "Asset": "Printer-pA-6420",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Patricia Dalton"
+  },
+  {
+    "Asset": "Printer-pf-3204",
+    "Vendor": "Moore-Bernard",
+    "DateReturned": "2025-09-19",
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Printer-pm-1182",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Patricia Dalton"
+  },
+  {
+    "Asset": "Printer-ps-0191",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Printer-qR-3781",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kaitlyn Carroll"
+  },
+  {
+    "Asset": "Printer-qk-2426",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Printer-rL-8814",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brian Sparks"
+  },
+  {
+    "Asset": "Printer-sd-1237",
+    "Vendor": null,
+    "DateReturned": "2025-07-20",
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Printer-ue-4610",
+    "Vendor": null,
+    "DateReturned": "2024-06-18",
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Printer-xd-1388",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Edward Shepherd"
+  },
+  {
+    "Asset": "Printer-yD-1998",
+    "Vendor": null,
+    "DateReturned": "2022-09-08",
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Printer-yO-0649",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Printer-yi-6116",
+    "Vendor": "Wright, Garcia and Deleon",
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Printer-yr-0265",
+    "Vendor": "Moore-Bass",
+    "DateReturned": null,
+    "Employee": "Amanda Navarro"
+  },
+  {
+    "Asset": "Printer-zR-1643",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Projector-Ag-4992",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Projector-BQ-4582",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Projector-CW-8812",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Projector-Cu-5988",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Projector-DV-3273",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jeffery Lee"
+  },
+  {
+    "Asset": "Projector-Dg-0359",
+    "Vendor": "Gentry PLC",
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Projector-Dg-7818",
+    "Vendor": null,
+    "DateReturned": "2022-12-02",
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Projector-Dh-4229",
+    "Vendor": null,
+    "DateReturned": "2026-09-26",
+    "Employee": "David Caldwell"
+  },
+  {
+    "Asset": "Projector-ET-8109",
+    "Vendor": null,
+    "DateReturned": "2023-12-28",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Projector-Ea-9281",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Projector-Er-0339",
+    "Vendor": null,
+    "DateReturned": "2028-04-08",
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Projector-Ev-7890",
+    "Vendor": null,
+    "DateReturned": "2021-08-09",
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Projector-Fe-0053",
+    "Vendor": "Jordan, Henderson and Owens",
+    "DateReturned": null,
+    "Employee": "Kaitlyn Carroll"
+  },
+  {
+    "Asset": "Projector-Fu-8245",
+    "Vendor": null,
+    "DateReturned": "2025-10-29",
+    "Employee": "Michael Anderson"
+  },
+  {
+    "Asset": "Projector-GF-4624",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Hayden"
+  },
+  {
+    "Asset": "Projector-GH-6769",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Projector-Gk-9438",
+    "Vendor": null,
+    "DateReturned": "2021-12-18",
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Projector-HI-8710",
+    "Vendor": null,
+    "DateReturned": "2024-07-13",
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Projector-IX-4167",
+    "Vendor": null,
+    "DateReturned": "2022-02-04",
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Projector-Id-6462",
+    "Vendor": null,
+    "DateReturned": "2025-05-09",
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Projector-Ik-7087",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jennifer Evans"
+  },
+  {
+    "Asset": "Projector-JE-8960",
+    "Vendor": null,
+    "DateReturned": "2023-05-24",
+    "Employee": "Jimmy Cohen"
+  },
+  {
+    "Asset": "Projector-JI-1167",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Arnold"
+  },
+  {
+    "Asset": "Projector-JY-6680",
+    "Vendor": "Romero, Gonzalez and Brooks",
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Projector-Jg-7888",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Projector-Jk-1962",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Projector-KT-7859",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Projector-KW-6053",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Cassandra Johnson"
+  },
+  {
+    "Asset": "Projector-LG-0343",
+    "Vendor": null,
+    "DateReturned": "2025-08-21",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Projector-LI-8667",
+    "Vendor": null,
+    "DateReturned": "2025-04-12",
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Projector-Mh-3353",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Projector-NP-1890",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Projector-PA-8397",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rachel Byrd"
+  },
+  {
+    "Asset": "Projector-QC-2877",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Projector-Ql-9258",
+    "Vendor": "Smith PLC",
+    "DateReturned": null,
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Projector-RM-1040",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Projector-RQ-2081",
+    "Vendor": null,
+    "DateReturned": "2025-08-13",
+    "Employee": "Katie Boyd"
+  },
+  {
+    "Asset": "Projector-RY-4695",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jasmine Graham"
+  },
+  {
+    "Asset": "Projector-Rj-4107",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Cheryl Mack"
+  },
+  {
+    "Asset": "Projector-Rk-2521",
+    "Vendor": null,
+    "DateReturned": "2027-09-05",
+    "Employee": "Rachel Byrd"
+  },
+  {
+    "Asset": "Projector-SU-6212",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Projector-St-1721",
+    "Vendor": null,
+    "DateReturned": "2026-12-13",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Projector-TN-1056",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Danny Walker"
+  },
+  {
+    "Asset": "Projector-TZ-8542",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Projector-UT-2322",
+    "Vendor": null,
+    "DateReturned": "2025-07-02",
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Projector-UU-0975",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jacqueline Gibson"
+  },
+  {
+    "Asset": "Projector-Ua-8781",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Projector-Ul-9743",
+    "Vendor": null,
+    "DateReturned": "2027-02-05",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Projector-XN-7950",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Projector-Xr-8418",
+    "Vendor": null,
+    "DateReturned": "2027-05-04",
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Projector-YP-0919",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "First Name Last Name"
+  },
+  {
+    "Asset": "Projector-ZH-5848",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Projector-Zc-5036",
+    "Vendor": null,
+    "DateReturned": "2026-08-20",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Projector-aD-3094",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Projector-aN-9705",
+    "Vendor": null,
+    "DateReturned": "2025-08-26",
+    "Employee": "Melissa Cannon"
+  },
+  {
+    "Asset": "Projector-ad-6077",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Robinson"
+  },
+  {
+    "Asset": "Projector-bE-5779",
+    "Vendor": null,
+    "DateReturned": "2024-04-01",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Projector-bG-2840",
+    "Vendor": null,
+    "DateReturned": "2022-11-14",
+    "Employee": "Danny Walker"
+  },
+  {
+    "Asset": "Projector-bX-3468",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Christopher Wright"
+  },
+  {
+    "Asset": "Projector-bs-7963",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Edward Shepherd"
+  },
+  {
+    "Asset": "Projector-cK-4814",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Robinson"
+  },
+  {
+    "Asset": "Projector-cV-6168",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Projector-ct-8444",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Projector-dH-3482",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Projector-ep-9982",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Anthony Mccoy"
+  },
+  {
+    "Asset": "Projector-fZ-5633",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Projector-fd-1791",
+    "Vendor": null,
+    "DateReturned": "2025-10-10",
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Projector-fu-1499",
+    "Vendor": null,
+    "DateReturned": "2025-03-29",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Projector-gR-0587",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Projector-gR-2319",
+    "Vendor": "Davis-Williams",
+    "DateReturned": "2025-01-12",
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Projector-hT-1230",
+    "Vendor": null,
+    "DateReturned": "2024-01-26",
+    "Employee": "Donna Campbell"
+  },
+  {
+    "Asset": "Projector-hz-4149",
+    "Vendor": null,
+    "DateReturned": "2024-12-17",
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Projector-ic-5435",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Barnett"
+  },
+  {
+    "Asset": "Projector-jD-8818",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jorge Murphy"
+  },
+  {
+    "Asset": "Projector-kr-6997",
+    "Vendor": "Reed-Hartman",
+    "DateReturned": null,
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Projector-lN-4985",
+    "Vendor": null,
+    "DateReturned": "2025-07-22",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Projector-ln-6321",
+    "Vendor": null,
+    "DateReturned": "2023-07-05",
+    "Employee": "Brittany Rivas"
+  },
+  {
+    "Asset": "Projector-mW-3971",
+    "Vendor": null,
+    "DateReturned": "2026-12-31",
+    "Employee": "Kenneth Ward"
+  },
+  {
+    "Asset": "Projector-mh-1720",
+    "Vendor": null,
+    "DateReturned": "2026-12-05",
+    "Employee": "Matthew Schwartz"
+  },
+  {
+    "Asset": "Projector-mj-4901",
+    "Vendor": null,
+    "DateReturned": "2026-09-21",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Projector-nE-1398",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Projector-nI-9079",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Projector-pS-9892",
+    "Vendor": null,
+    "DateReturned": "2023-08-09",
+    "Employee": "Angela Black"
+  },
+  {
+    "Asset": "Projector-qW-9970",
+    "Vendor": null,
+    "DateReturned": "2025-04-20",
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Projector-rq-1652",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Janice Perry"
+  },
+  {
+    "Asset": "Projector-tX-8159",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Projector-uR-8509",
+    "Vendor": null,
+    "DateReturned": "2023-11-12",
+    "Employee": "Stacie Marshall"
+  },
+  {
+    "Asset": "Projector-vA-6521",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Projector-vJ-0162",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Bryan"
+  },
+  {
+    "Asset": "Projector-vw-2489",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Projector-wA-1928",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Projector-wb-7309",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Projector-wh-0448",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Projector-xL-4153",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Cassandra Johnson"
+  },
+  {
+    "Asset": "Projector-yt-0489",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Projector-yx-8242",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Monique Johnson"
+  },
+  {
+    "Asset": "Projector-zJ-8260",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Projector-zt-9569",
+    "Vendor": "Carlson-Mcdonald",
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Router-AW-7188",
+    "Vendor": null,
+    "DateReturned": "2026-01-22",
+    "Employee": "Mary Howell"
+  },
+  {
+    "Asset": "Router-Au-3246",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Router-BC-4218",
+    "Vendor": "Garcia, Pearson and Fernandez",
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Router-Bj-0035",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Router-DA-0076",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Andrea Davis"
+  },
+  {
+    "Asset": "Router-Dm-5949",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Router-Dn-8947",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-EN-5886",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Christian"
+  },
+  {
+    "Asset": "Router-EU-0600",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Router-Ek-9309",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Sullivan"
+  },
+  {
+    "Asset": "Router-FP-8670",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Cannon"
+  },
+  {
+    "Asset": "Router-FV-4316",
+    "Vendor": "Caldwell-Lewis",
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Router-Fo-8411",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Router-Fw-3227",
+    "Vendor": null,
+    "DateReturned": "2023-03-04",
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Router-Ga-0225",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Router-Gf-9594",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Router-Gr-0084",
+    "Vendor": null,
+    "DateReturned": "2024-01-05",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-Hb-6541",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Router-Ic-0484",
+    "Vendor": null,
+    "DateReturned": "2022-08-21",
+    "Employee": "Jesus Rowe"
+  },
+  {
+    "Asset": "Router-KF-9385",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Router-KZ-9541",
+    "Vendor": null,
+    "DateReturned": "2024-05-04",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Router-Ki-1983",
+    "Vendor": null,
+    "DateReturned": "2024-01-07",
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Router-Lm-9991",
+    "Vendor": null,
+    "DateReturned": "2024-04-19",
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Router-Lp-7707",
+    "Vendor": null,
+    "DateReturned": "2026-04-10",
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Router-MQ-0910",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Router-Ma-6470",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Router-Mk-6330",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Router-NM-5580",
+    "Vendor": null,
+    "DateReturned": "2026-09-26",
+    "Employee": "Jacqueline Gibson"
+  },
+  {
+    "Asset": "Router-NQ-9292",
+    "Vendor": null,
+    "DateReturned": "2025-08-19",
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Router-Nw-2460",
+    "Vendor": null,
+    "DateReturned": "2025-04-18",
+    "Employee": "Mary Howell"
+  },
+  {
+    "Asset": "Router-OV-9137",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Router-Ol-4662",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Router-PE-9240",
+    "Vendor": null,
+    "DateReturned": "2023-06-13",
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Router-Pf-6294",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Router-Pl-4604",
+    "Vendor": null,
+    "DateReturned": "2025-07-19",
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Router-Pn-1995",
+    "Vendor": null,
+    "DateReturned": "2025-06-29",
+    "Employee": "Kaitlyn Williams"
+  },
+  {
+    "Asset": "Router-Pr-9439",
+    "Vendor": "Jones, Hensley and Powell",
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-RM-3295",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Lee"
+  },
+  {
+    "Asset": "Router-TA-5923",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Router-TH-8835",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Router-Tc-7416",
+    "Vendor": null,
+    "DateReturned": "2024-10-02",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Router-UI-4271",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Andrew Greer"
+  },
+  {
+    "Asset": "Router-VT-5576",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Router-Xc-1252",
+    "Vendor": "Reid, Ferguson and Sanchez",
+    "DateReturned": "2027-05-07",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Router-Xu-8519",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Patricia Dalton"
+  },
+  {
+    "Asset": "Router-Yb-8207",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Router-Yg-1199",
+    "Vendor": null,
+    "DateReturned": "2026-04-24",
+    "Employee": "Erica Le"
+  },
+  {
+    "Asset": "Router-ZO-0558",
+    "Vendor": null,
+    "DateReturned": "2025-12-06",
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Router-ZV-3586",
+    "Vendor": null,
+    "DateReturned": "2024-02-14",
+    "Employee": "Scott Benson"
+  },
+  {
+    "Asset": "Router-aL-1204",
+    "Vendor": null,
+    "DateReturned": "2025-07-13",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-as-8992",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Robinson"
+  },
+  {
+    "Asset": "Router-cK-3556",
+    "Vendor": null,
+    "DateReturned": "2026-03-04",
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Router-ci-6008",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Router-dZ-5587",
+    "Vendor": "Tucker, Jones and Hodges",
+    "DateReturned": null,
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Router-dx-0307",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Router-ex-5649",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Router-fE-7085",
+    "Vendor": null,
+    "DateReturned": "2024-02-11",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-ff-9965",
+    "Vendor": "Lee Group",
+    "DateReturned": "2026-01-06",
+    "Employee": "John Douglas"
+  },
+  {
+    "Asset": "Router-fg-9131",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Router-gL-9674",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jeremiah Mills"
+  },
+  {
+    "Asset": "Router-go-6082",
+    "Vendor": null,
+    "DateReturned": "2025-09-29",
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Router-iE-5933",
+    "Vendor": null,
+    "DateReturned": "2025-01-27",
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Router-iI-9042",
+    "Vendor": null,
+    "DateReturned": "2024-11-01",
+    "Employee": "Anthony Mccoy"
+  },
+  {
+    "Asset": "Router-jS-0094",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Router-kB-6417",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Router-kf-4505",
+    "Vendor": "Martin Inc",
+    "DateReturned": "2022-10-07",
+    "Employee": "Kevin Hayden"
+  },
+  {
+    "Asset": "Router-kr-9001",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Router-lu-5573",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Clark"
+  },
+  {
+    "Asset": "Router-mg-7859",
+    "Vendor": null,
+    "DateReturned": "2022-07-04",
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Router-nE-6110",
+    "Vendor": null,
+    "DateReturned": "2024-03-05",
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Router-nH-8876",
+    "Vendor": null,
+    "DateReturned": "2025-03-31",
+    "Employee": "Renee Smith"
+  },
+  {
+    "Asset": "Router-os-0034",
+    "Vendor": "Whitehead LLC",
+    "DateReturned": null,
+    "Employee": "Renee Smith"
+  },
+  {
+    "Asset": "Router-pC-4518",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Router-pg-3471",
+    "Vendor": null,
+    "DateReturned": "2021-10-11",
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Router-qJ-4596",
+    "Vendor": null,
+    "DateReturned": "2027-03-20",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Router-qL-3538",
+    "Vendor": null,
+    "DateReturned": "2025-02-10",
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Router-qW-0216",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Router-qt-0186",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Router-rE-2408",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Router-rH-5158",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Taylor Alexander"
+  },
+  {
+    "Asset": "Router-rJ-7163",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Router-rM-0673",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Router-rd-6356",
+    "Vendor": null,
+    "DateReturned": "2023-02-06",
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Router-sJ-4559",
+    "Vendor": "Kennedy, Mueller and Aguirre",
+    "DateReturned": "2023-01-01",
+    "Employee": "Angela Lee"
+  },
+  {
+    "Asset": "Router-sP-7584",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Router-sg-4282",
+    "Vendor": null,
+    "DateReturned": "2026-10-27",
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Router-sk-3767",
+    "Vendor": null,
+    "DateReturned": "2022-07-13",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Router-sy-9420",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Donna Peck"
+  },
+  {
+    "Asset": "Router-tT-8498",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Hayden"
+  },
+  {
+    "Asset": "Router-uS-0568",
+    "Vendor": null,
+    "DateReturned": "2025-11-05",
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Router-ub-0433",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Router-uq-1918",
+    "Vendor": null,
+    "DateReturned": "2023-08-29",
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Router-uq-3469",
+    "Vendor": "Lewis, Baker and Mahoney",
+    "DateReturned": "2027-06-14",
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Router-uv-6990",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-ux-9701",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Rodriguez"
+  },
+  {
+    "Asset": "Router-vr-4171",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Router-vu-7805",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Router-wE-7070",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Router-wu-5854",
+    "Vendor": null,
+    "DateReturned": "2022-12-30",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Router-xA-4469",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Router-xD-7779",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Router-xY-8421",
+    "Vendor": null,
+    "DateReturned": "2025-03-29",
+    "Employee": "Ashley Sullivan"
+  },
+  {
+    "Asset": "Router-xx-7060",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Sullivan"
+  },
+  {
+    "Asset": "Router-xz-8384",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Router-yL-8953",
+    "Vendor": null,
+    "DateReturned": "2027-01-31",
+    "Employee": "Matthew Schwartz"
+  },
+  {
+    "Asset": "Router-yc-2281",
+    "Vendor": null,
+    "DateReturned": "2022-08-11",
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Router-yw-4163",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Router-zV-3913",
+    "Vendor": null,
+    "DateReturned": "2025-06-18",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Server-BA-1055",
+    "Vendor": null,
+    "DateReturned": "2025-07-10",
+    "Employee": "Anthony Mccoy"
+  },
+  {
+    "Asset": "Server-Eh-2824",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Server-Fk-8364",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Cheyenne Ball"
+  },
+  {
+    "Asset": "Server-Ft-8288",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Server-Fx-4419",
+    "Vendor": null,
+    "DateReturned": "2025-09-11",
+    "Employee": "Mary Carpenter"
+  },
+  {
+    "Asset": "Server-HA-4103",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "James Rodgers"
+  },
+  {
+    "Asset": "Server-HG-3887",
+    "Vendor": null,
+    "DateReturned": "2024-01-05",
+    "Employee": "Christopher Wright"
+  },
+  {
+    "Asset": "Server-Im-0409",
+    "Vendor": null,
+    "DateReturned": "2027-03-28",
+    "Employee": "Patricia Dalton"
+  },
+  {
+    "Asset": "Server-KV-2226",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Rogers"
+  },
+  {
+    "Asset": "Server-Kb-1235",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Server-Kp-2413",
+    "Vendor": null,
+    "DateReturned": "2023-12-12",
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Server-Kz-5746",
+    "Vendor": null,
+    "DateReturned": "2026-10-30",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Server-LO-6694",
+    "Vendor": null,
+    "DateReturned": "2025-07-09",
+    "Employee": "Kimberly Robinson"
+  },
+  {
+    "Asset": "Server-LR-6806",
+    "Vendor": null,
+    "DateReturned": "2022-05-15",
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Server-NF-5119",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Server-Oo-0062",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kaitlyn Williams"
+  },
+  {
+    "Asset": "Server-QH-5566",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Server-QO-8538",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Louis Kennedy"
+  },
+  {
+    "Asset": "Server-QV-2776",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Karen Castaneda"
+  },
+  {
+    "Asset": "Server-Qn-3718",
+    "Vendor": null,
+    "DateReturned": "2023-03-07",
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Server-RN-3271",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Server-Su-1287",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "David Caldwell"
+  },
+  {
+    "Asset": "Server-Tc-4058",
+    "Vendor": null,
+    "DateReturned": "2024-09-12",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Server-UD-8499",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Alexis Ferguson"
+  },
+  {
+    "Asset": "Server-UY-5267",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jorge Murphy"
+  },
+  {
+    "Asset": "Server-Um-6500",
+    "Vendor": "Alvarez, Pierce and Baker",
+    "DateReturned": "2023-11-06",
+    "Employee": "Patricia Dalton"
+  },
+  {
+    "Asset": "Server-Uu-9194",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Server-VP-7517",
+    "Vendor": null,
+    "DateReturned": "2026-09-11",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Server-Vs-0672",
+    "Vendor": null,
+    "DateReturned": "2023-08-21",
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Server-WK-5703",
+    "Vendor": null,
+    "DateReturned": "2023-11-05",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Server-WZ-8866",
+    "Vendor": null,
+    "DateReturned": "2023-02-27",
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Server-Xd-3754",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Cannon"
+  },
+  {
+    "Asset": "Server-Xg-5823",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Server-Yz-1364",
+    "Vendor": null,
+    "DateReturned": "2027-04-14",
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Server-ZD-4786",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michelle Griffin"
+  },
+  {
+    "Asset": "Server-ZI-9620",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Server-Zy-3010",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Server-Zy-9699",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Rodriguez"
+  },
+  {
+    "Asset": "Server-aG-6032",
+    "Vendor": "Calderon-Williams",
+    "DateReturned": "2025-05-20",
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Server-aN-4916",
+    "Vendor": null,
+    "DateReturned": "2024-10-14",
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Server-ak-3332",
+    "Vendor": null,
+    "DateReturned": "2024-08-16",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Server-ay-7760",
+    "Vendor": null,
+    "DateReturned": "2026-09-23",
+    "Employee": "Glenn Jones"
+  },
+  {
+    "Asset": "Server-az-0310",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Monique Johnson"
+  },
+  {
+    "Asset": "Server-bQ-6055",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Server-bR-7773",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyrone Moran"
+  },
+  {
+    "Asset": "Server-cF-9907",
+    "Vendor": null,
+    "DateReturned": "2025-11-23",
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Server-cU-2617",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rachel Byrd"
+  },
+  {
+    "Asset": "Server-cb-7661",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Server-du-1797",
+    "Vendor": null,
+    "DateReturned": "2024-11-12",
+    "Employee": "Jasmine Graham"
+  },
+  {
+    "Asset": "Server-eJ-8675",
+    "Vendor": null,
+    "DateReturned": "2026-04-28",
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Server-eW-8192",
+    "Vendor": null,
+    "DateReturned": "2026-10-21",
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Server-fE-9351",
+    "Vendor": null,
+    "DateReturned": "2022-09-03",
+    "Employee": "Matthew Schwartz"
+  },
+  {
+    "Asset": "Server-fG-3651",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Server-fQ-7125",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Knight"
+  },
+  {
+    "Asset": "Server-fW-5669",
+    "Vendor": null,
+    "DateReturned": "2024-12-16",
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Server-fn-6823",
+    "Vendor": null,
+    "DateReturned": "2022-08-09",
+    "Employee": "Andrew Greer"
+  },
+  {
+    "Asset": "Server-fz-2788",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Server-gD-1866",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Server-ge-3428",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Server-hP-2447",
+    "Vendor": null,
+    "DateReturned": "2022-11-19",
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Server-hX-9059",
+    "Vendor": null,
+    "DateReturned": "2022-02-17",
+    "Employee": "Brittany Rivas"
+  },
+  {
+    "Asset": "Server-hi-3923",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Anderson"
+  },
+  {
+    "Asset": "Server-iW-1616",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Arnold"
+  },
+  {
+    "Asset": "Server-ij-6353",
+    "Vendor": null,
+    "DateReturned": "2026-08-31",
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Server-ji-8974",
+    "Vendor": null,
+    "DateReturned": "2025-11-14",
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Server-jw-0450",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Server-lC-9685",
+    "Vendor": null,
+    "DateReturned": "2024-08-05",
+    "Employee": "Marcus Cordova"
+  },
+  {
+    "Asset": "Server-mY-7635",
+    "Vendor": null,
+    "DateReturned": "2027-05-08",
+    "Employee": "Monique Johnson"
+  },
+  {
+    "Asset": "Server-nB-9684",
+    "Vendor": null,
+    "DateReturned": "2025-08-17",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Server-nd-8616",
+    "Vendor": null,
+    "DateReturned": "2026-05-25",
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Server-oY-4032",
+    "Vendor": "Harris-Moran",
+    "DateReturned": null,
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Server-pn-0064",
+    "Vendor": null,
+    "DateReturned": "2022-08-14",
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Server-pv-8753",
+    "Vendor": "Watts, Robinson and Nguyen",
+    "DateReturned": "2022-10-18",
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Server-qy-2999",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Hayes"
+  },
+  {
+    "Asset": "Server-qz-6509",
+    "Vendor": null,
+    "DateReturned": "2026-09-03",
+    "Employee": "Ashley Sullivan"
+  },
+  {
+    "Asset": "Server-rA-8030",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Server-rV-0330",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jesus Rowe"
+  },
+  {
+    "Asset": "Server-sR-8327",
+    "Vendor": null,
+    "DateReturned": "2027-08-26",
+    "Employee": "Johnny Miller"
+  },
+  {
+    "Asset": "Server-td-3128",
+    "Vendor": null,
+    "DateReturned": "2023-05-02",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Server-tq-0344",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Miller"
+  },
+  {
+    "Asset": "Server-ts-8938",
+    "Vendor": "Rice, Contreras and Spencer",
+    "DateReturned": null,
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Server-uF-3681",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Server-vM-1041",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Barnett"
+  },
+  {
+    "Asset": "Server-vN-0870",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Server-vs-7734",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Server-wI-7665",
+    "Vendor": null,
+    "DateReturned": "2026-12-04",
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Server-wJ-9442",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Benjamin Miller"
+  },
+  {
+    "Asset": "Server-xQ-5553",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Bill Reynolds"
+  },
+  {
+    "Asset": "Server-yB-1288",
+    "Vendor": null,
+    "DateReturned": "2024-11-28",
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Server-yQ-0273",
+    "Vendor": null,
+    "DateReturned": "2024-04-27",
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Server-zU-7853",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Diane Daniels"
+  },
+  {
+    "Asset": "Tablet-AD-6917",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Black"
+  },
+  {
+    "Asset": "Tablet-AV-1885",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Michael Anderson"
+  },
+  {
+    "Asset": "Tablet-Al-5101",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Tablet-BG-4368",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Tablet-BG-6277",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Tablet-Bb-2332",
+    "Vendor": null,
+    "DateReturned": "2025-02-07",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Tablet-Bd-6715",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Tablet-Bk-0629",
+    "Vendor": null,
+    "DateReturned": "2026-10-12",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Tablet-Da-4518",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "John Douglas"
+  },
+  {
+    "Asset": "Tablet-Da-6649",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Tablet-Dd-3744",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joseph Miller"
+  },
+  {
+    "Asset": "Tablet-EM-0191",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Tablet-FT-8713",
+    "Vendor": null,
+    "DateReturned": "2027-01-11",
+    "Employee": "Phyllis Manning"
+  },
+  {
+    "Asset": "Tablet-Fb-6325",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Tablet-Ff-4904",
+    "Vendor": null,
+    "DateReturned": "2023-06-15",
+    "Employee": "Veronica Torres"
+  },
+  {
+    "Asset": "Tablet-Fo-2170",
+    "Vendor": null,
+    "DateReturned": "2025-06-09",
+    "Employee": "David Caldwell"
+  },
+  {
+    "Asset": "Tablet-Fu-3506",
+    "Vendor": null,
+    "DateReturned": "2022-11-30",
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Tablet-Gr-2394",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew French"
+  },
+  {
+    "Asset": "Tablet-Gu-2966",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Louis Kennedy"
+  },
+  {
+    "Asset": "Tablet-HI-2591",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Anthony Mccoy"
+  },
+  {
+    "Asset": "Tablet-JG-7236",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Tablet-Jk-8953",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stacey Clark"
+  },
+  {
+    "Asset": "Tablet-KP-4179",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Tablet-LQ-3447",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Tablet-LQ-3447",
+    "Vendor": null,
+    "DateReturned": "2026-05-13",
+    "Employee": "Howard Richards"
+  },
+  {
+    "Asset": "Tablet-NV-9544",
+    "Vendor": "Carpenter LLC",
+    "DateReturned": "2024-08-09",
+    "Employee": "Michael Arnold"
+  },
+  {
+    "Asset": "Tablet-NZ-8698",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Tablet-Oe-0448",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Tablet-PC-4957",
+    "Vendor": null,
+    "DateReturned": "2022-12-12",
+    "Employee": "Tammy Rivera"
+  },
+  {
+    "Asset": "Tablet-PD-9081",
+    "Vendor": "Underwood LLC",
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Tablet-PK-1522",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Tablet-Pc-9437",
+    "Vendor": null,
+    "DateReturned": "2028-06-01",
+    "Employee": "Jeffery Lee"
+  },
+  {
+    "Asset": "Tablet-Qc-7590",
+    "Vendor": "Williams, Miller and Sandoval",
+    "DateReturned": null,
+    "Employee": "Tammy Nelson"
+  },
+  {
+    "Asset": "Tablet-Ro-9366",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kaitlyn Carroll"
+  },
+  {
+    "Asset": "Tablet-Sc-9360",
+    "Vendor": null,
+    "DateReturned": "2022-07-19",
+    "Employee": "Melissa Cannon"
+  },
+  {
+    "Asset": "Tablet-Se-5462",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tyler Johnson"
+  },
+  {
+    "Asset": "Tablet-So-9727",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Tablet-Tb-2619",
+    "Vendor": null,
+    "DateReturned": "2023-10-19",
+    "Employee": "Tina Sanchez"
+  },
+  {
+    "Asset": "Tablet-Tn-8766",
+    "Vendor": "Jones, Stanley and Mejia",
+    "DateReturned": null,
+    "Employee": "Christopher Wright"
+  },
+  {
+    "Asset": "Tablet-UN-9542",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Tablet-UU-9907",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Tablet-Ub-2980",
+    "Vendor": null,
+    "DateReturned": "2024-11-21",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Tablet-WB-6412",
+    "Vendor": null,
+    "DateReturned": "2023-11-04",
+    "Employee": "Sandra French"
+  },
+  {
+    "Asset": "Tablet-Wr-5851",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tamara Higgins"
+  },
+  {
+    "Asset": "Tablet-XX-8562",
+    "Vendor": null,
+    "DateReturned": "2025-01-29",
+    "Employee": "Heather Mccarthy"
+  },
+  {
+    "Asset": "Tablet-Xi-8618",
+    "Vendor": null,
+    "DateReturned": "2026-03-26",
+    "Employee": "Brenda Smith"
+  },
+  {
+    "Asset": "Tablet-ZY-3268",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Stephen Solis"
+  },
+  {
+    "Asset": "Tablet-bu-3513",
+    "Vendor": null,
+    "DateReturned": "2024-11-22",
+    "Employee": "Ashley Barnett"
+  },
+  {
+    "Asset": "Tablet-ci-6800",
+    "Vendor": null,
+    "DateReturned": "2026-06-09",
+    "Employee": "Thomas Pearson"
+  },
+  {
+    "Asset": "Tablet-co-0667",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Tablet-dP-1433",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Landry"
+  },
+  {
+    "Asset": "Tablet-dQ-5487",
+    "Vendor": null,
+    "DateReturned": "2027-02-06",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Tablet-dh-7447",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Debbie Henry"
+  },
+  {
+    "Asset": "Tablet-dy-5410",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Tablet-fI-0199",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Tablet-fk-4741",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ashley Barnett"
+  },
+  {
+    "Asset": "Tablet-gK-6190",
+    "Vendor": null,
+    "DateReturned": "2022-03-19",
+    "Employee": "Kimberly Hall"
+  },
+  {
+    "Asset": "Tablet-gV-9127",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Tablet-iX-1983",
+    "Vendor": null,
+    "DateReturned": "2027-07-08",
+    "Employee": "Charles Landry"
+  },
+  {
+    "Asset": "Tablet-il-4687",
+    "Vendor": "Rodriguez-Graham",
+    "DateReturned": null,
+    "Employee": "Karen Herring"
+  },
+  {
+    "Asset": "Tablet-iy-7626",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Rebekah Serrano"
+  },
+  {
+    "Asset": "Tablet-ji-8460",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Tablet-jm-1024",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steve Estrada"
+  },
+  {
+    "Asset": "Tablet-kL-4179",
+    "Vendor": null,
+    "DateReturned": "2024-01-05",
+    "Employee": "Benjamin Miller"
+  },
+  {
+    "Asset": "Tablet-kQ-0172",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jorge Murphy"
+  },
+  {
+    "Asset": "Tablet-kR-9097",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Tablet-kl-3379",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Tablet-kq-4785",
+    "Vendor": null,
+    "DateReturned": "2023-12-08",
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Tablet-kz-0203",
+    "Vendor": null,
+    "DateReturned": "2025-03-26",
+    "Employee": "Ashley Barnett"
+  },
+  {
+    "Asset": "Tablet-mC-6520",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Renee Mcgee"
+  },
+  {
+    "Asset": "Tablet-mD-4133",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Steven Wilson"
+  },
+  {
+    "Asset": "Tablet-mW-9098",
+    "Vendor": null,
+    "DateReturned": "2028-04-26",
+    "Employee": "Perry Carrillo"
+  },
+  {
+    "Asset": "Tablet-nR-6171",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tina Allen"
+  },
+  {
+    "Asset": "Tablet-nq-2036",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Randy Espinoza"
+  },
+  {
+    "Asset": "Tablet-nw-9728",
+    "Vendor": null,
+    "DateReturned": "2024-03-27",
+    "Employee": "Stephen Turner"
+  },
+  {
+    "Asset": "Tablet-oL-7512",
+    "Vendor": null,
+    "DateReturned": "2027-07-20",
+    "Employee": "Lori Campbell"
+  },
+  {
+    "Asset": "Tablet-oT-3259",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jeremiah Mills"
+  },
+  {
+    "Asset": "Tablet-oZ-0828",
+    "Vendor": null,
+    "DateReturned": "2023-06-26",
+    "Employee": "Linda Hogan"
+  },
+  {
+    "Asset": "Tablet-pB-2671",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Tablet-pZ-2024",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Johnny Miller"
+  },
+  {
+    "Asset": "Tablet-qN-5397",
+    "Vendor": null,
+    "DateReturned": "2024-10-07",
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Tablet-rB-2289",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jimmy Cohen"
+  },
+  {
+    "Asset": "Tablet-rH-4550",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Jorge Murphy"
+  },
+  {
+    "Asset": "Tablet-rN-2223",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Vanessa Larson"
+  },
+  {
+    "Asset": "Tablet-rV-2671",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Soto"
+  },
+  {
+    "Asset": "Tablet-ry-8701",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Charles Harrington"
+  },
+  {
+    "Asset": "Tablet-sb-3606",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kevin Clark"
+  },
+  {
+    "Asset": "Tablet-sd-4410",
+    "Vendor": null,
+    "DateReturned": "2023-01-09",
+    "Employee": "Mathew Santiago"
+  },
+  {
+    "Asset": "Tablet-tC-5110",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Tablet-tb-2618",
+    "Vendor": null,
+    "DateReturned": "2021-10-23",
+    "Employee": "Joshua Jones"
+  },
+  {
+    "Asset": "Tablet-tr-5054",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Tanya Harrison"
+  },
+  {
+    "Asset": "Tablet-ug-5998",
+    "Vendor": null,
+    "DateReturned": "2024-05-18",
+    "Employee": "Samuel Wolfe"
+  },
+  {
+    "Asset": "Tablet-uo-2400",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Kristopher Hall"
+  },
+  {
+    "Asset": "Tablet-vD-7278",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Angela Lee"
+  },
+  {
+    "Asset": "Tablet-vP-4168",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Tablet-vZ-9844",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Scott Lewis"
+  },
+  {
+    "Asset": "Tablet-vk-6131",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Ryan Johnson"
+  },
+  {
+    "Asset": "Tablet-wf-4074",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Melissa Rodriguez"
+  },
+  {
+    "Asset": "Tablet-wv-3720",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Robert Pena"
+  },
+  {
+    "Asset": "Tablet-xC-9106",
+    "Vendor": null,
+    "DateReturned": "2024-09-27",
+    "Employee": "Matthew Beard"
+  },
+  {
+    "Asset": "Tablet-yu-0243",
+    "Vendor": null,
+    "DateReturned": null,
+    "Employee": "Mark Perry"
+  },
+  {
+    "Asset": "Tablet-zx-2727",
+    "Vendor": "Hall PLC",
+    "DateReturned": null,
+    "Employee": "Brandon Flynn"
+  }
+]

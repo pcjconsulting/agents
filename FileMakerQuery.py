@@ -12,14 +12,14 @@ password = "password"
 ODBC_CONNECTION_STRING = f'DSN={dsn_name};UID={user};PWD={password}'
 
 fm_query_str = """
- SELECT DISTINCT A.Name AS AssetName, V.Name AS VendorName, CAST(T.\"Date Returned\" AS VARCHAR) AS DateReturned, E.\"First Name\" AS EmployeeFirstName, E.\"Last Name\" AS EmployeeLastName
+ SELECT DISTINCT A.Name AS Asset, V.Name AS Vendor, CAST(T.\"Date Returned\" AS VARCHAR) AS DateReturned, E.\"First Name\" + ' ' + E.\"Last Name\" AS Employee
  FROM Employees AS E
  JOIN Assignments AS T ON E.PrimaryKey = T.EmployeeForeignKey
  JOIN Assets AS A ON A.PrimaryKey = T.AssetForeignKey
  LEFT JOIN Vendors AS V ON T.AssetForeignKey = V.ForeignKey
- ORDER BY T.EmployeeForeignKey
- FETCH FIRST 100 ROWS ONLY
- """
+ORDER BY
+    E.\"First Name\" + ' ' + E.\"Last Name\"
+"""
 
 
 # Define the Database Tool
