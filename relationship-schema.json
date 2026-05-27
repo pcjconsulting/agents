@@ -1,0 +1,26 @@
+[
+    {
+        "LeftTable": "Employees",
+        "LeftField": "PrimaryKey",
+        "IsLeftFieldUnique": "True",
+        "RightTable": "Assignments",
+        "RightField": "EmployeeForeignKey",
+        "IsRightFieldUnique": "False"
+    },
+    {
+        "LeftTable": "Assets",
+        "LeftField": "PrimaryKey",
+        "IsLeftFieldUnique": "True",
+        "RightTable": "Assignments",
+        "RightField": "AssetForeignKey",
+        "IsRightFieldUnique": "False"
+    },
+    {
+        "LeftTable": "Assets",
+        "LeftField": "PrimaryKey",
+        "IsLeftFieldUnique": "True",
+        "RightTable": "Vendors",
+        "RightField": "ForeignKey",
+        "IsRightFieldUnique": "False"
+    }
+]

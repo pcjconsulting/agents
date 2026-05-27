@@ -1,0 +1,122 @@
+
+manual query findings
+• counts
+	Employees	196
+	Assignments	1001
+	Vendors 	75
+	Assets  	1000
+• all 196 employees have a matching assignment
+• all 1001 assignments have at least one matching employee
+• Asset 2eb6eba5-d37f-4d21-957f-0354d13415d1 has no Assigment
+
+
+User: How many employees have an undefined returned date?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-TL-8713", "Vendor": null, "Returned": "2026-03-09", "Employee": "01e278e5-32b6-42ea-a01e-6b68bcda606c"}, {"Asset": "Phone-Sc-3182", "Vendor": null, "Returned": null, "Employee": "01...
+Response:
+There are 441 unique employees who have an undefined returned date for their assigned assets.
+
+User: How many assets have vendors?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-TL-8713", "Vendor": null, "Returned": "2026-03-09", "Employee": "01e278e5-32b6-42ea-a01e-6b68bcda606c"}, {"Asset": "Phone-Sc-3182", "Vendor": null, "Returned": null, "Employee": "01...
+Response:
+There are 98 assets that have vendors.
+
+User: How many employees have multiple assets assigned to them?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-TL-8713", "Vendor": null, "Returned": "2026-03-09", "Employee": "01e278e5-32b6-42ea-a01e-6b68bcda606c"}, {"Asset": "Phone-Sc-3182", "Vendor": null, "Returned": null, "Employee": "01...
+Response:
+A total of 970 employees have multiple assets assigned to them.
+
+User: How many assets are assigned to multiple employees?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-TL-8713", "Vendor": null, "Returned": "2026-03-09", "Employee": "01e278e5-32b6-42ea-a01e-6b68bcda606c"}, {"Asset": "Phone-Sc-3182", "Vendor": null, "Returned": null, "Employee": "01...
+Response:
+To determine how many assets are assigned to multiple employees, we need to check if an asset appears in more than one unique employee record.
+After analyzing the assignment data, no asset has been assigned to more than one employee, based on the current available data. Therefore, there are **0 assets** assigned to multiple employees.
+
+User: How many assigned assets have a defined return date in the past?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-TL-8713", "Vendor": null, "Returned": "2026-03-09", "Employee": "01e278e5-32b6-42ea-a01e-6b68bcda606c"}, {"Asset": "Phone-Sc-3182", "Vendor": null, "Returned": null, "Employee": "01...
+Response:
+The number of assigned assets with a return date in the past is **296**.
+
+User: How many assigned assets have a defined return date in the future?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-TL-8713", "Vendor": null, "Returned": "2026-03-09", "Employee": "01e278e5-32b6-42ea-a01e-6b68bcda606c"}, {"Asset": "Phone-Sc-3182", "Vendor": null, "Returned": null, "Employee": "01...
+Response:
+There are 99 assigned assets with a return date in the future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User: How many employees have an undefined returned date?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-AW-5002", "Vendor": null, "DateReturned": null, "Employee": "Erica Le"}, {"Asset": "Camera-AY-1764", "Vendor": null, "DateReturned": "2022-09-10", "Employee": "Angela Lee"}, {"Asset...
+Response:
+There are 106 unique employees who have an undefined returned date for the assets assigned to them.
+
+User: How many assets have vendors?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-AW-5002", "Vendor": null, "DateReturned": null, "Employee": "Erica Le"}, {"Asset": "Camera-AY-1764", "Vendor": null, "DateReturned": "2022-09-10", "Employee": "Angela Lee"}, {"Asset...
+Response:
+Out of the assets listed, 111 of them have vendors associated with them.
+
+User: How many employees have multiple assets assigned to them?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-AW-5002", "Vendor": null, "DateReturned": null, "Employee": "Erica Le"}, {"Asset": "Camera-AY-1764", "Vendor": null, "DateReturned": "2022-09-10", "Employee": "Angela Lee"}, {"Asset...
+Response:
+To determine how many employees have multiple assets assigned to them, we need to count the occurrences of each employee's name and find those with more than one assignment.
+
+Based on the provided data, here are some employees with more than one asset assigned to them:
+
+- Lori Campbell
+- Matthew Beard
+- Scott Lewis
+- Tyler Johnson
+- Thomas Pearson
+- Renee Mcgee
+- Kimberly Hall
+- Perry Carrillo
+- Tammy Rivera
+- Rebekah Serrano
+- Linda Hogan
+- Tammy Nelson
+- Joshua Jones
+
+Therefore, there are 13 employees who have multiple assets assigned to them.
+
+User: How many assets are assigned to multiple employees?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-AW-5002", "Vendor": null, "DateReturned": null, "Employee": "Erica Le"}, {"Asset": "Camera-AY-1764", "Vendor": null, "DateReturned": "2022-09-10", "Employee": "Angela Lee"}, {"Asset...
+Response:
+To determine the number of assets assigned to multiple employees, I'll analyze the asset records to find the assets assigned more than once. Based on the data:
+
+- The `Tablet-LQ-3447` is listed with two different assignments: Howard Richards and Mark Perry.
+
+This suggests there is 1 asset assigned to multiple employees.
+
+User: How many assigned assets have a defined return date in the past?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-AW-5002", "Vendor": null, "DateReturned": null, "Employee": "Erica Le"}, {"Asset": "Camera-AY-1764", "Vendor": null, "DateReturned": "2022-09-10", "Employee": "Angela Lee"}, {"Asset...
+Response:
+There are 86 assigned assets that have a defined return date in the past (as of the current date).
+
+User: How many assigned assets have a defined return date in the future?
+[Agent Action] Executing: execute_sql_query
+[Agent Observation] Data fetched: [{"Asset": "Camera-AW-5002", "Vendor": null, "DateReturned": null, "Employee": "Erica Le"}, {"Asset": "Camera-AY-1764", "Vendor": null, "DateReturned": "2022-09-10", "Employee": "Angela Lee"}, {"Asset...
+Response:
+There are 65 assigned assets with a defined return date in the future.
+
+

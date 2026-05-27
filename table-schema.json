@@ -1,0 +1,202 @@
+[
+  {
+    "TableName": "Assets",
+    "Fields": [
+      {
+        "FieldName": "Name",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Description",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Serial Number",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Image",
+        "FieldType": "binary"
+      },
+      {
+        "FieldName": "Price",
+        "FieldType": "decimal"
+      },
+      {
+        "FieldName": "Vendor",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Purchase Date",
+        "FieldType": "date"
+      },
+      {
+        "FieldName": "Type",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Total",
+        "FieldType": "decimal"
+      },
+      {
+        "FieldName": "PrimaryKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreatedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "ModifiedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreationTimestamp",
+        "FieldType": "timestamp"
+      },
+      {
+        "FieldName": "ModificationTimestamp",
+        "FieldType": "timestamp"
+      }
+    ]
+  },
+  {
+    "TableName": "Assignments",
+    "Fields": [
+      {
+        "FieldName": "AssetForeignKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "EmployeeForeignKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Date Returned",
+        "FieldType": "date"
+      },
+      {
+        "FieldName": "Note",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Sort By",
+        "FieldType": "date"
+      },
+      {
+        "FieldName": "PrimaryKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreatedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "ModifiedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Name",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreationTimestamp",
+        "FieldType": "timestamp"
+      },
+      {
+        "FieldName": "ModificationTimestamp",
+        "FieldType": "timestamp"
+      },
+      {
+        "FieldName": "DateAssigned",
+        "FieldType": "date"
+      }
+    ]
+  },
+  {
+    "TableName": "Employees",
+    "Fields": [
+      {
+        "FieldName": "First Name",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Photo",
+        "FieldType": "binary"
+      },
+      {
+        "FieldName": "Description",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "PrimaryKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreatedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "ModifiedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Last Name",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Name",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreationTimestamp",
+        "FieldType": "timestamp"
+      },
+      {
+        "FieldName": "ModificationTimestamp",
+        "FieldType": "timestamp"
+      }
+    ]
+  },
+  {
+    "TableName": "Vendors",
+    "Fields": [
+      {
+        "FieldName": "Name",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "Logo",
+        "FieldType": "binary"
+      },
+      {
+        "FieldName": "Description",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "PrimaryKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreatedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "ModifiedBy",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "ForeignKey",
+        "FieldType": "varchar"
+      },
+      {
+        "FieldName": "CreationTimestamp",
+        "FieldType": "timestamp"
+      },
+      {
+        "FieldName": "ModificationTimestamp",
+        "FieldType": "timestamp"
+      }
+    ]
+  }
+]
