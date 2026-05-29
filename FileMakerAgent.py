@@ -181,13 +181,57 @@ def run_agent_loop(user_prompt: str):
                             "content": function_response,
                         }
                     )
-                    
-            # Send the fetched data back to ChatGPT to get a final answer.
-            final_response = client.chat.completions.create(
-                model="gpt-4o",
+# --------------------------------------------------------------------------------                    
+            # Send second prompt and tool definitions to ChatGPT.
+            response = client.chat.completions.create(
+                model="gpt-5.5",
                 messages=messages,
+                tools=tools_definition,
+                tool_choice="auto",
+                parallel_tool_calls=False,
             )
-            return final_response.choices[0].message.content 
+            
+            message = response.choices[0].message
+            messages.append(message)
+            
+            # Check if ChatGPT decided to call a function.
+            if message.tool_calls:
+                for tool_call in message.tool_calls:
+                    function_name = tool_call.function.name
+                    function_to_call = available_tools.get(function_name)
+                    
+                    if function_to_call:
+                        function_args = json.loads(tool_call.function.arguments)
+                        print(f"\n[Agent Action] Invoking: {function_name} with args: {function_args}")
+                        
+                        function_response = function_to_call(**function_args)
+
+                        # Print snippet of result
+                        print(f"[Agent Observation] Data fetched: {function_response[:200]}...") 
+                        
+                        # Append the function result to conversation memory.
+                        messages.append(
+                            {
+                                "tool_call_id": tool_call.id,
+                                "role": "tool",
+                                "name": function_name,
+                                "content": function_response,
+                            }
+                        )
+                        
+                # Send the fetched data back to ChatGPT to get a final answer.
+                final_response = client.chat.completions.create(
+                    model="gpt-5.5",
+                    messages=messages,
+                )
+                return final_response.choices[0].message.content 
+# --------------------------------------------------------------------------------                    
+
+
+
+
+
+
         else:
             # ChatGPT didn't need the database, just return its text response.
             return message.content
@@ -210,5 +254,5 @@ if __name__ == "__main__":
     #     print(f"User: {user_question}")    
 
 
-    answer = run_agent_loop("How many employees have multiple assets assigned to them?")
+    answer = run_agent_loop("How many assets have vendors?")
     print(f"Response:\n{answer}")
