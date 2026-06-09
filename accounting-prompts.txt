@@ -1,0 +1,42 @@
+AI/Accounting (QBO replacement)
+Goal is to create a superior executive management suite of tools to better inform business operations as we evolve into the future
+The paradigm of our current FM structure will need work. 
+AI possibilities around reporting that can be created with the integration of AI into the professional accounting space.
+
+Make copy of our current FM, to create a new family of layouts and integration schemes. 
+
+current bookkeeping approach
+	we control/reconcile the all economic activity to the Ticket as the central unifying economic entity. 
+
+proposed approach
+	reconcile all the economic activity to the Contract as the central locus, 
+	removing all payment-related information from the Ticket, 
+	which along with payments and other subset domains would subordinate to the Contract.
+	The balance would be controlled on one master contract ledger
+		chronologically by Date Processed 
+		contains all charges and payments processed 
+		maintains a running total with a minimum of complexity. 
+		All postings of charges and payments would be posted to this contract ledger.
+	The ROS would be KDA-aligned and would have its own ledger. 
+	All Sales and Payment events would be a function of the contract. 
+	rename Ticket Charges as Sales, 
+	rename Ticket as Work Order, 
+	and would operate Work Orders
+		as a primary subgrouping under Contracts 
+		in parallel with Sales and Payment
+		Work Order status would be pending or processed.
+	Sales and Payments would net to a rolling total balance owed on the Contract.
+	rename “Contract" as Service Agreement.
+
+
+This also will ultimately solve the frustration we’ve had with...
+	Eaches 
+	and contractually complex single customer, commercial and industrial accounts, 
+	with an all-work-orders-created-equal approach.
+
+HawksBase strictly mimicked our manual bookkeeping process, 
+	which controlled to the work ticket, 
+	organized by date and technician on a daily report 
+	that also controlled collections of cash and checks.
+
+
